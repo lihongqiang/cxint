@@ -1,0 +1,1644 @@
+n01945685	slug
+n12787364	Christmas_bush	Christmas_tree	Ceratopetalum_gummiferum
+n02480495	orangutan	orang	orangutang	Pongo_pygmaeus
+n13111881	bonsai
+n02747177	ashcan	trash_can	garbage_can	wastebin	ash_bin	ash-bin	ashbin	dustbin	trash_barrel	trash_bin
+n04550184	wardrobe	closet	press
+n09246464	cliff	drop	drop-off
+n03135532	cross
+n07614500	ice_cream	icecream
+n04147183	schooner
+n02804123	bass_guitar
+n03476684	hair_slide
+n13792842	communication
+n02783324	ballroom	dance_hall	dance_palace
+n03384352	forklift
+n02330245	mouse
+n03148324	cupboard	closet
+n03322099	farm
+n04049098	railway_station	railroad_station	railroad_terminal	train_station	train_depot
+n11664418	ginkgo	gingko	maidenhair_tree	Ginkgo_biloba
+n03000684	chain_saw	chainsaw
+n02319095	sea_urchin
+n07874780	porridge
+n04524313	vehicle
+n02814860	beacon	lighthouse	beacon_light	pharos
+n04525305	vending_machine
+n03900979	pavilion	marquee
+n03643253	laser	optical_maser
+n01689811	alligator_lizard
+n12387839	violet
+n02481823	chimpanzee	chimp	Pan_troglodytes
+n03791053	motor_scooter	scooter
+n04272054	spectacles	specs	eyeglasses	glasses
+n04054213	rapid_transit	mass_rapid_transit
+n09230202	butte
+n04136333	sarong
+n07768694	pomegranate
+n03047052	clock_tower
+n08271042	galaxy	extragalactic_nebula
+n13250048	land
+n03992703	pottery	clayware
+n14845743	water	H2O
+n03459775	grille	radiator_grille
+n02167151	ground_beetle	carabid_beetle
+n07564971	vegetarianism
+n02351870	jerboa
+n00467995	field_hockey	hockey
+n03512147	helicopter	chopper	whirlybird	eggbeater
+n03447721	gong	tam-tam
+n01950731	sea_slug	nudibranch
+n04483307	trimaran
+n02782778	ballpark	park
+n02606194	Pomacentridae	family_Pomacentridae
+n02279972	monarch	monarch_butterfly	milkweed_butterfly	Danaus_plexippus
+n07857959	pate
+n04200800	shoe_shop	shoe-shop	shoe_store
+n02086910	papillon
+n02667576	abbey
+n01496331	electric_ray	crampfish	numbfish	torpedo
+n01773797	garden_spider	Aranea_diademata
+n02966193	carousel	carrousel	merry-go-round	roundabout	whirligig
+n01773549	barn_spider	Araneus_cavaticus
+n03793489	mouse	computer_mouse
+n02106166	Border_collie
+n04201845	shooting_gallery	shooting_range
+n02977058	cash_machine	cash_dispenser	automated_teller_machine	automatic_teller_machine	automated_teller	automatic_teller	ATM
+n02110185	Siberian_husky
+n04111531	rotisserie
+n03584829	iron	smoothing_iron
+n02105641	Old_English_sheepdog	bobtail
+n03944341	pinwheel
+n14642417	iron	Fe	atomic_number_26
+n07714571	head_cabbage
+n02406174	dairy_cattle	dairy_cow	milch_cow	milk_cow	milcher	milker
+n02229544	cricket
+n02428089	puku	Adenota_vardoni
+n02509815	lesser_panda	red_panda	panda	bear_cat	cat_bear	Ailurus_fulgens
+n02389026	sorrel
+n02424305	kudu	koodoo	koudou
+n02836174	bidet
+n03599486	jinrikisha	ricksha	rickshaw
+n11508382	snow	snowfall
+n02821627	bedroom	sleeping_room	sleeping_accommodation	chamber	bedchamber
+n02097130	giant_schnauzer
+n07590611	hot_pot	hotpot
+n03956157	planetarium
+n03845190	oil_tanker	oiler	tanker	tank_ship
+n01582220	magpie
+n02022684	shorebird	shore_bird	limicoline_bird
+n00304349	parasailing	paragliding
+n02498153	aye-aye	Daubentonia_madagascariensis
+n04405907	television_receiver	television	television_set	tv	tv_set	idiot_box	boob_tube	telly	goggle_box
+n02442336	stoat
+n02364520	cavy
+n02106550	Rottweiler
+n09411430	river
+n02101388	Brittany_spaniel
+n01728572	thunder_snake	worm_snake	Carphophis_amoenus
+n03916031	perfume	essence
+n02126640	margay	margay_cat	Felis_wiedi
+n03804744	nail
+n02917067	bullet_train	bullet
+n04254680	soccer_ball
+n03348454	firework	pyrotechnic
+n08439126	rain_forest	rainforest
+n01768244	trilobite
+n02117135	hyena	hyaena
+n02119789	kit_fox	Vulpes_macrotis
+n02403325	bull
+n00326094	rock_climbing
+n02397096	warthog
+n14992287	plaster
+n03873416	paddle	boat_paddle
+n01806567	quail
+n07886849	beer
+n07880080	teriyaki
+n04045397	raft
+n07590320	goulash	Hungarian_goulash	gulyas
+n01924916	flatworm	platyhelminth
+n02793495	barn
+n02107574	Greater_Swiss_Mountain_dog
+n02968473	carriage	equipage	rig
+n02106030	collie
+n07699914	spaghetti
+n02727426	apiary	bee_house
+n02342885	hamster
+n03041632	cleaver	meat_cleaver	chopper
+n00470966	rugby	rugby_football	rugger
+n07823105	chutney	Indian_relish
+n04591713	wine_bottle
+n03325584	feather_boa	boa
+n04407435	temple
+n02948072	candle	taper	wax_light
+n03200701	dining_room	dining-room
+n03047690	clog	geta	patten	sabot
+n04264628	space_bar
+n13037406	gyromitra
+n07753275	pineapple	ananas
+n02669723	academic_gown	academic_robe	judge's_robe
+n03733805	measuring_cup
+n15019030	sand
+n03493333	hardware	computer_hardware
+n10091651	fireman	firefighter	fire_fighter	fire-eater
+n02425228	bushbuck	guib	Tragelaphus_scriptus
+n11618861	larch	larch_tree
+n01498041	stingray
+n01824575	coucal
+n04458633	totem_pole
+n03924679	photocopier
+n00480211	volleyball	volleyball_game
+n04037625	racetrack	racecourse	raceway	track
+n04540053	volleyball
+n02149420	freetail	free-tailed_bat	freetailed_bat
+n07873807	pizza	pizza_pie
+n03701640	machinery
+n02483362	gibbon	Hylobates_lar
+n02823750	beer_glass
+n03715892	mallet
+n03240683	drilling_platform	offshore_rig
+n02093647	Bedlington_terrier
+n07560193	fast_food
+n04469813	tramway	tram	aerial_tramway	cable_tramway	ropeway
+n07314838	calamity	catastrophe	disaster	tragedy	cataclysm
+n03397412	frigate
+n02025239	ruddy_turnstone	Arenaria_interpres
+n03938244	pillow
+n03132879	crochet	crocheting
+n10804406	young_person	youth	younker	spring_chicken
+n04258138	solar_dish	solar_collector	solar_furnace
+n02113978	Mexican_hairless
+n02974003	car_wheel
+n10120533	gardener	nurseryman
+n02412210	wether
+n03748886	merchandise	ware	product
+n04497962	tunnel
+n03743016	megalith	megalithic_structure
+n00021265	food	nutrient
+n02690373	airliner
+n08254876	wedding_reception
+n03196217	digital_clock
+n02028035	redshank	Tringa_totanus
+n04485082	tripod
+n02064338	rorqual	razorback
+n07686202	limpa
+n04118538	rugby_ball
+n03291819	envelope
+n04466613	trail
+n03792972	mountain_tent
+n04152593	screen	CRT_screen
+n00942234	carving	cutting
+n08196024	air_force	airforce
+n12620031	Rosa	genus_Rosa
+n01695060	Komodo_dragon	Komodo_lizard	dragon_lizard	giant_lizard	Varanus_komodoensis
+n10793168	wrestler	grappler	matman
+n04487394	trombone
+n01532829	house_finch	linnet	Carpodacus_mexicanus
+n03042490	cliff_dwelling
+n07575726	dinner
+n03790230	motorboat	powerboat
+n02404432	longhorn	Texas_longhorn
+n02105505	komondor
+n04065272	recreational_vehicle	RV	R.V.
+n02094258	Norwich_terrier
+n03452741	grand_piano	grand
+n02426481	steenbok	steinbok	Raphicerus_campestris
+n09229709	bubble
+n02510455	giant_panda	panda	panda_bear	coon_bear	Ailuropoda_melanoleuca
+n05254795	hair
+n04128413	sail
+n04150668	scrap
+n04393549	tapestry	tapis
+n03895866	passenger_car	coach	carriage
+n01978287	Dungeness_crab	Cancer_magister
+n07859284	sugar	refined_sugar
+n02667093	abaya
+n02113799	standard_poodle
+n02432983	elk	European_elk	moose	Alces_alces
+n01755581	diamondback	diamondback_rattlesnake	Crotalus_adamanteus
+n03970546	plush
+n01610955	falcon
+n09475292	waterfall	falls
+n07904072	kirsch
+n03931044	picture	image	icon	ikon
+n02268853	damselfly
+n03814639	neck_brace
+n02814533	beach_wagon	station_wagon	wagon	estate_car	beach_waggon	station_waggon	waggon
+n11537506	moss
+n02900160	bridle
+n07917392	sidecar
+n03160309	dam	dike	dyke
+n02428349	oryx	pasang
+n03965456	plaza	mall	center	shopping_mall	shopping_center	shopping_centre
+n04229816	ski_mask
+n02123159	tiger_cat
+n02108000	EntleBucher
+n08518374	campus
+n08615374	park	commons	common	green
+n11779300	arum	aroid
+n04462240	toyshop
+n03196062	digital_camera
+n07711569	mashed_potato
+n15169248	sunset	sundown
+n02113023	Pembroke	Pembroke_Welsh_corgi
+n02492660	howler_monkey	howler
+n07684084	French_loaf
+n12057211	yellow_lady's_slipper	yellow_lady-slipper	Cypripedium_calceolus	Cypripedium_parviflorum
+n09393605	plain	field	champaign
+n02111500	Great_Pyrenees
+n03384167	fork
+n09860506	blond	blonde
+n03670208	limousine	limo
+n02096051	Airedale	Airedale_terrier
+n04548362	wallet	billfold	notecase	pocketbook
+n02110627	affenpinscher	monkey_pinscher	monkey_dog
+n02102973	Irish_water_spaniel
+n11925898	marguerite	marguerite_daisy	Paris_daisy	Chrysanthemum_frutescens	Argyranthemum_frutescens
+n02740061	armored_car	armoured_car
+n02107312	miniature_pinscher
+n03492542	hard_disc	hard_disk	fixed_disk
+n03417042	garbage_truck	dustcart
+n01930112	nematode	nematode_worm	roundworm
+n02259212	leafhopper
+n07926346	limeade
+n03180504	destroyer	guided_missile_destroyer
+n01742172	boa_constrictor	Constrictor_constrictor
+n14882793	stained_glass
+n02107142	Doberman	Doberman_pinscher
+n03133878	Crock_Pot
+n02344528	lemming
+n13388245	coin
+n03445924	golfcart	golf_cart
+n03447447	gondola
+n02381261	dun
+n02375438	stablemate	stable_companion
+n02497673	Madagascar_cat	ring-tailed_lemur	Lemur_catta
+n03100240	convertible
+n02099712	Labrador_retriever
+n01744401	rock_python	rock_snake	Python_sebae
+n10565667	scuba_diver
+n07241837	public_speaking	speechmaking	speaking	oral_presentation
+n02970685	car_seat
+n03931765	picture_frame
+n01885498	numbat	banded_anteater	anteater	Myrmecobius_fasciatus
+n02092173	staghound
+n00528667	ballet	concert_dance
+n02508021	raccoon	racoon
+n04225987	skateboard
+n04312432	steeple	spire
+n02128385	leopard	Panthera_pardus
+n04409515	tennis_ball
+n04434932	tights	leotards
+n04559275	watercourse	waterway
+n09233715	cape	ness
+n03000247	chain_mail	ring_mail	mail	chain_armor	chain_armour	ring_armor	ring_armour
+n04210390	shrine
+n02113712	miniature_poodle
+n14024882	sleep	slumber
+n03169390	decoration	ornament	ornamentation
+n03908618	pencil_box	pencil_case
+n01753488	horned_viper	cerastes	sand_viper	horned_asp	Cerastes_cornutus
+n04376876	syringe
+n03788365	mosquito_net
+n01986214	hermit_crab
+n02085782	Japanese_spaniel
+n02100236	German_short-haired_pointer
+n12454159	tulip
+n02361337	marmot
+n01443537	goldfish	Carassius_auratus
+n07629988	birthday_cake
+n02485536	vervet	vervet_monkey	Cercopithecus_aethiops_pygerythrus
+n02815950	beam
+n07926442	orangeade
+n09284015	forest	woodland	timberland	timber
+n07630294	chocolate_cake
+n07867421	fondue	fondu
+n03871628	packet
+n02370806	ungulate	hoofed_mammal
+n02280223	Pieridae	family_Pieridae
+n02281787	lycaenid	lycaenid_butterfly
+n12849717	lavender
+n14858292	litter
+n04446276	toilet	lavatory	lav	can	john	privy	bathroom
+n02919792	bungalow	cottage
+n00448466	skating
+n02018795	bustard
+n02114855	coyote	prairie_wolf	brush_wolf	Canis_latrans
+n02817516	bearskin	busby	shako
+n07611267	flan
+n03775546	mixing_bowl
+n07248801	ad	advertisement	advertizement	advertising	advertizing	advert
+n04332243	strainer
+n02126787	manul	Pallas's_cat	Felis_manul
+n04317175	stethoscope
+n02098286	West_Highland_white_terrier
+n07609632	truffle	chocolate_truffle
+n11669335	flower	bloom	blossom
+n04535524	villa
+n00263353	tattoo
+n02389128	palomino
+n04613696	yurt
+n05262185	mustache	moustache
+n03887697	paper_towel
+n08624891	landmark
+n02366002	agouti	Dasyprocta_aguti
+n02434954	muntjac	barking_deer
+n07592656	ragout
+n07914413	daiquiri	rum_cocktail
+n01670092	tortoise
+n10376523	oldster	old_person	senior_citizen	golden_ager
+n01773157	black_and_gold_garden_spider	Argiope_aurantia
+n06359193	web_site	website	internet_site	site
+n03065424	coil	spiral	volute	whorl	helix
+n02928608	button
+n04435180	tile
+n02100735	English_setter
+n07929519	coffee	java
+n02104029	kuvasz
+n02950826	cannon
+n02802215	basket	basketball_hoop	hoop
+n02872752	boot
+n07911249	sambuca
+n02826886	bell_tower
+n07908411	absinth	absinthe
+n01887787	cow
+n01774384	black_widow	Latrodectus_mactans
+n03417345	garden
+n02147328	serotine	European_brown_bat	Eptesicus_serotinus
+n02093256	Staffordshire_bullterrier	Staffordshire_bull_terrier
+n07621497	zabaglione	sabayon
+n02073831	manatee	Trichechus_manatus
+n15207556	full_moon	full-of-the-moon	full_phase_of_the_moon	full
+n04350905	suit	suit_of_clothes
+n12157769	gourd	gourd_vine
+n15104217	wool
+n04418357	theater_curtain	theatre_curtain
+n04127249	safety_pin
+n00450335	riding	horseback_riding	equitation
+n02096585	Boston_bull	Boston_terrier
+n03262349	earring
+n02110063	malamute	malemute	Alaskan_malamute
+n03929855	pickelhaube
+n02489166	proboscis_monkey	Nasalis_larvatus
+n02966687	carpenter's_kit	tool_kit
+n03461385	grocery_store	grocery	food_market	market
+n04371430	swimming_trunks	bathing_trunks
+n02041246	gull	seagull	sea_gull
+n09428293	seashore	coast	seacoast	sea-coast
+n02823428	beer_bottle
+n02470325	ape
+n03000134	chainlink_fence
+n10036929	drummer
+n02453108	pachyderm
+n03859495	outerwear	overclothes
+n03496892	harvester	reaper
+n03971218	plywood	plyboard
+n04086273	revolver	six-gun	six-shooter
+n04252077	snowmobile
+n03120198	court	courtyard
+n04256520	sofa	couch	lounge
+n12306717	jasmine
+n02390101	mule
+n03354903	flag
+n02165105	tiger_beetle
+n14956325	mud	clay
+n02512053	fish
+n03018349	china_cabinet	china_closet
+n03908714	pencil_sharpener
+n04039381	racket	racquet
+n03790512	motorcycle	bike
+n02088839	coonhound
+n13121544	aquatic_plant	water_plant	hydrophyte	hydrophytic_plant
+n07020538	dance
+n07775197	sunflower_seed
+n01884476	thylacine	Tasmanian_wolf	Tasmanian_tiger	Thylacinus_cynocephalus
+n01491361	tiger_shark	Galeocerdo_cuvieri
+n03221720	door
+n01944390	snail
+n04102406	roller_coaster	big_dipper	chute-the-chute
+n03400231	frying_pan	frypan	skillet
+n03208938	disk_brake	disc_brake
+n02091032	Italian_greyhound
+n09347779	marsh	marshland	fen	fenland
+n02096177	cairn	cairn_terrier
+n02256656	cicada	cicala
+n02501583	tarsier
+n02488702	colobus	colobus_monkey
+n05566504	finger
+n08407619	exhibition	exposition	expo
+n02421449	gnu	wildebeest
+n03478589	half_track
+n00445802	boxing	pugilism	fisticuffs
+n03788195	mosque
+n03099274	convenience_store
+n07773238	coconut	coconut_meat
+n02486908	mandrill	Mandrillus_sphinx
+n04440749	tire	tyre
+n03244388	driveway	drive	private_road
+n07842753	omelet	omelette
+n03412058	gallery	art_gallery	picture_gallery
+n02009912	American_egret	great_white_heron	Egretta_albus
+n04394630	tarmacadam	tarmac	macadam
+n03179701	desk
+n10618342	soccer_player
+n00964343	combat	armed_combat
+n01693334	green_lizard	Lacerta_viridis
+n07904293	slivovitz
+n13883346	rectangle
+n03878066	palace	castle
+n13385913	currency
+n02125689	jaguarundi	jaguarundi_cat	jaguarondi	eyra	Felis_yagouaroundi
+n03877845	palace
+n03236735	dress	frock
+n02971356	carton
+n07872593	moussaka
+n07932039	eggnog
+n04204347	shopping_cart
+n02111129	Leonberg
+n04141327	scabbard
+n02174001	rhinoceros_beetle
+n02095889	Sealyham_terrier	Sealyham
+n03781244	monastery
+n03898500	patchwork
+n07897116	retsina
+n02110958	pug	pug-dog
+n07776866	seafood
+n02085936	Maltese_dog	Maltese_terrier	Maltese
+n01881564	cuscus
+n02071294	killer_whale	killer	orca	grampus	sea_wolf	Orcinus_orca
+n06874185	traffic_light	traffic_signal	stoplight
+n02813645	bazaar	bazar
+n07863374	pasta
+n07579787	plate
+n02391049	zebra
+n07900225	varietal	varietal_wine
+n04370456	sweatshirt
+n02070430	porpoise
+n14769465	asphalt
+n02799071	baseball
+n05600637	face	human_face
+n04493381	tub	vat
+n04589890	window_screen
+n04532670	viaduct
+n04546855	wall
+n02002556	white_stork	Ciconia_ciconia
+n02426813	eland
+n07571324	cuisine	culinary_art
+n02693860	aisle	gangway
+n02021795	seabird	sea_bird	seafowl
+n01325417	horn
+n05917994	special_effect
+n04208210	shovel
+n01694178	African_chameleon	Chamaeleo_chamaeleon
+n07841345	egg_yolk	yolk
+n02317335	starfish	sea_star
+n02006656	spoonbill
+n04467665	trailer_truck	tractor_trailer	trucking_rig	rig	articulated_lorry	semi
+n02376918	male_horse
+n02396427	wild_boar	boar	Sus_scrofa
+n04254777	sock
+n09270894	Earth	earth	world	globe
+n03376595	folding_chair
+n02422106	hartebeest
+n03530642	honeycomb
+n04069434	reflex_camera
+n02108672	bulldog	English_bulldog
+n03219135	doll	dolly
+n03109150	corkscrew	bottle_screw
+n01740131	night_snake	Hypsiglena_torquata
+n02009229	little_blue_heron	Egretta_caerulea
+n07565083	menu
+n07716358	zucchini	courgette
+n00313806	sailing
+n07854184	mozzarella
+n02098413	Lhasa	Lhasa_apso
+n13152742	leaf	leafage	foliage
+n04251144	snorkel
+n01514859	hen
+n05602548	brow	forehead
+n02133161	American_black_bear	black_bear	Ursus_americanus	Euarctos_americanus
+n14699752	gem	gemstone	stone
+n04596742	wok
+n02483708	siamang	Hylobates_syndactylus	Symphalangus_syndactylus
+n07869937	kedgeree
+n02795169	barrel	cask
+n01613294	eagle	bird_of_Jove
+n01665541	leatherback_turtle	leatherback	leathery_turtle	Dermochelys_coriacea
+n02212062	wasp
+n14698884	gravel	crushed_rock
+n13984944	shadow
+n09472597	volcano
+n04357314	sunscreen	sunblock	sun_blocker
+n07880968	burrito
+n03478907	hall
+n02927161	butcher_shop	meat_market
+n04137089	sash_window
+n11690455	petal	flower_petal
+n03085013	computer_keyboard	keypad
+n03535780	horizontal_bar	high_bar
+n03529860	home_theater	home_theatre
+n08276720	school
+n04509417	unicycle	monocycle
+n02389261	pinto
+n02066245	grey_whale	gray_whale	devilfish	Eschrichtius_gibbosus	Eschrichtius_robustus
+n02807731	bathroom	bath
+n01619310	buzzard	turkey_buzzard	turkey_vulture	Cathartes_aura
+n08308497	conference
+n04038727	rack
+n02514041	barracouta	snoek
+n03404251	fur_coat
+n01784675	centipede
+n04192698	shield	buckler
+n02836035	bicycle_wheel
+n02122948	kitten	kitty
+n01726692	snake	serpent	ophidian
+n01871265	tusker
+n02012849	crane
+n03126707	crane
+n02865351	bolo_tie	bolo	bola_tie	bola
+n12177844	hibiscus
+n01728920	ringneck_snake	ring-necked_snake	ring_snake
+n03857828	oscilloscope	scope	cathode-ray_oscilloscope	CRO
+n13099999	deciduous_plant
+n03482405	hamper
+n09426788	sea
+n07617188	pudding
+n02366959	coypu	nutria	Myocastor_coypus
+n02422699	impala	Aepyceros_melampus
+n11475279	lightning
+n02808304	bath_towel
+n03803284	muzzle
+n03498962	hatchet
+n13044778	earthstar
+n02159955	insect
+n04120489	running_shoe
+n01843383	toucan
+n02106662	German_shepherd	German_shepherd_dog	German_police_dog	alsatian
+n02331046	rat
+n02089867	Walker_hound	Walker_foxhound
+n07835823	bordelaise
+n03343853	firearm	piece	small-arm
+n03623198	knee_pad
+n03379051	football_helmet
+n01530575	brambling	Fringilla_montifringilla
+n02414209	longwool
+n03724870	mask
+n03930313	picket_fence	paling
+n03480719	halter	hackamore
+n07202391	portrayal	portraiture	portrait
+n01674464	lizard
+n02095314	wire-haired_fox_terrier
+n02879087	bouquet	corsage	posy	nosegay
+n02837789	bikini	two-piece
+n01729977	green_snake	grass_snake
+n02448318	ratel	honey_badger	Mellivora_capensis
+n03290653	entertainment_center
+n03045698	cloak
+n04371225	swimming_pool	swimming_bath	natatorium
+n04479046	trench_coat
+n02091635	otterhound	otter_hound
+n03233905	drawer
+n02415130	urial	Ovis_vignei
+n02981792	catamaran
+n03089624	confectionery	confectionary	candy_store
+n02123597	Siamese_cat	Siamese
+n07596967	confectionery
+n07697537	hotdog	hot_dog	red_hot
+n01811909	pigeon
+n02018207	American_coot	marsh_hen	mud_hen	water_hen	Fulica_americana
+n02099429	curly-coated_retriever
+n08256567	supper
+n04040759	radiator
+n08253640	banquet	feast
+n02088238	basset	basset_hound
+n02859443	boathouse
+n04579145	whiskey_jug
+n02172182	dung_beetle
+n02112350	keeshond
+n03079230	compact_disk	compact_disc	CD
+n03843555	oil_filter
+n02834397	bib
+n02749479	assault_rifle	assault_gun
+n02447366	badger
+n01440764	tench	Tinca_tinca
+n05311054	eye	oculus	optic
+n03005285	chandelier	pendant	pendent
+n02091831	Saluki	gazelle_hound
+n03841143	odometer	hodometer	mileometer	milometer
+n02812201	battleship	battlewagon
+n03590841	jack-o'-lantern
+n07977870	library
+n01847806	mallard	Anas_platyrhynchos
+n02842573	biplane
+n09889539	cameraman	camera_operator	cinematographer
+n07247925	public_relations	PR
+n02090622	borzoi	Russian_wolfhound
+n04536866	violin	fiddle
+n09397391	pond	pool
+n02343772	gerbil	gerbille
+n01537544	indigo_bunting	indigo_finch	indigo_bird	Passerina_cyanea
+n02109961	Eskimo_dog	husky
+n04099969	rocking_chair	rocker
+n02708093	analog_clock
+n04204238	shopping_basket
+n02115641	dingo	warrigal	warragal	Canis_dingo
+n09172283	Sahara	Sahara_Desert
+n03718458	manor	manor_house
+n02461830	pangolin	scaly_anteater	anteater
+n03729826	matchstick
+n02129604	tiger	Panthera_tigris
+n04599235	wool	woolen	woollen
+n05261566	beard	face_fungus	whiskers
+n04275548	spider_web	spider's_web
+n01978455	rock_crab	Cancer_irroratus
+n02726305	apartment	flat
+n02769748	backpack	back_pack	knapsack	packsack	rucksack	haversack
+n00431893	play	child's_play
+n03980874	poncho
+n02096437	Dandie_Dinmont	Dandie_Dinmont_terrier
+n01795545	black_grouse
+n07840027	veloute
+n07007945	play	drama	dramatic_play
+n03937543	pill_bottle
+n07568818	roughage	fiber
+n01322604	puppy
+n09388023	pebble
+n01629819	European_fire_salamander	Salamandra_salamandra
+n01318894	pet
+n03118245	countertop
+n02124075	Egyptian_cat
+n07593107	slumgullion
+n02077923	sea_lion
+n01877134	kangaroo
+n02774152	bag	handbag	pocketbook	purse
+n09472413	volcanic_crater	crater
+n02136103	binturong	bearcat	Arctictis_bintourong
+n02104365	schipperke
+n04179913	sewing_machine
+n01985128	crayfish	crawfish	crawdad	crawdaddy
+n03969259	plumbing_fixture
+n03127925	crate
+n00134780	punch	clout	poke	lick	biff	slug
+n05563770	arm
+n07580359	casserole
+n02101556	clumber	clumber_spaniel
+n03838899	oboe	hautboy	hautbois
+n02840245	binder	ring-binder
+n03347037	fire_screen	fireguard
+n01845132	waterfowl	water_bird	waterbird
+n03595614	jersey	T-shirt	tee_shirt
+n02732072	aquarium	fish_tank	marine_museum
+n02128925	jaguar	panther	Panthera_onca	Felis_onca
+n07720875	bell_pepper
+n02363005	beaver
+n04229480	skiff
+n02988304	CD_player
+n01518878	ostrich	Struthio_camelus
+n06794110	street_sign
+n07699584	noodle
+n04133789	sandal
+n02007558	flamingo
+n11530512	crop
+n07625061	samosa
+n01887474	livestock	stock	farm_animal
+n13384557	money
+n02114712	red_wolf	maned_wolf	Canis_rufus	Canis_niger
+n03272010	electric_guitar
+n03062245	cocktail_shaker
+n04553703	washbasin	handbasin	washbowl	lavabo	wash-hand_basin
+n02951843	canopy
+n02096294	Australian_terrier
+n04417672	thatch	thatched_roof
+n02098105	soft-coated_wheaten_terrier
+n09193705	alp
+n02326432	hare
+n07875152	potpie
+n04116512	rubber_eraser	rubber	pencil_eraser
+n15075141	toilet_tissue	toilet_paper	bathroom_tissue
+n03630383	lab_coat	laboratory_coat
+n13125117	root
+n02892201	brass	memorial_tablet	plaque
+n02108089	boxer
+n01797886	ruffed_grouse	partridge	Bonasa_umbellus
+n07718747	artichoke	globe_artichoke
+n14856263	waste	waste_material	waste_matter	waste_product
+n02414290	merino	merino_sheep
+n03686470	loft
+n04461696	tow_truck	tow_car	wrecker
+n03636649	lamp
+n03866082	overskirt
+n07730033	cardoon
+n04251791	snowboard
+n11439690	cloud
+n08227214	club	social_club	society	guild	gild	lodge	order
+n02699494	altar
+n02055803	penguin
+n03865557	overpass	flyover
+n02777292	balance_beam	beam
+n02693246	air_terminal	airport_terminal
+n04447861	toilet_seat
+n03218198	dogsled	dog_sled	dog_sleigh
+n07716906	spaghetti_squash
+n03763968	military_uniform
+n04065464	recreation_room	rec_room
+n07859583	syrup	sirup
+n03207743	dishrag	dishcloth
+n02666196	abacus
+n02064000	bowhead	bowhead_whale	Greenland_whale	Balaena_mysticetus
+n04476259	tray
+n09409512	ridge
+n01981276	king_crab	Alaska_crab	Alaskan_king_crab	Alaska_king_crab	Paralithodes_camtschatica
+n03665924	light_bulb	lightbulb	bulb	incandescent_lamp	electric_light	electric-light_bulb
+n02089973	English_foxhound
+n02835271	bicycle-built-for-two	tandem_bicycle	tandem
+n03476991	hair_spray
+n02368116	viscacha	chinchillon	Lagostomus_maximus
+n03187595	dial_telephone	dial_phone
+n10403876	passenger	rider
+n03769881	minibus
+n09436708	sky
+n03007130	chapel
+n02414763	argali	argal	Ovis_ammon
+n03372029	flute	transverse_flute
+n01775062	wolf_spider	hunting_spider
+n07655263	saute
+n03485655	handicraft	handcraft	handiwork	handwork
+n11978233	sunflower	helianthus
+n03199901	dinghy	dory	rowboat
+n12387478	Viola	genus_Viola
+n02120505	grey_fox	gray_fox	Urocyon_cinereoargenteus
+n03854065	organ	pipe_organ
+n07881404	tostada
+n04235860	sleeping_bag
+n01735189	garter_snake	grass_snake
+n02437616	llama
+n04011827	propeller	propellor
+n12130759	Phragmites	genus_Phragmites
+n02791270	barbershop
+n04399382	teddy	teddy_bear
+n11960245	dahlia	Dahlia_pinnata
+n02136794	fanaloka	Fossa_fossa
+n01806143	peacock
+n02496052	prosimian
+n02381004	buckskin
+n03908831	pendant	pendent
+n02128757	snow_leopard	ounce	Panthera_uncia
+n02442845	mink
+n06568978	program	programme	computer_program	computer_programme
+n03619890	kitchen
+n02094114	Norfolk_terrier
+n01855672	goose
+n12059314	dendrobium
+n02435853	chevrotain	mouse_deer
+n03950228	pitcher	ewer
+n01698640	American_alligator	Alligator_mississipiensis
+n11939491	daisy
+n03637318	lampshade	lamp_shade
+n03026506	Christmas_stocking
+n01685808	whiptail	whiptail_lizard
+n09421951	sandbar	sand_bar
+n00309906	campaign	hunting_expedition	safari
+n04026417	purse
+n00445351	rowing	row
+n04562935	water_tower
+n02802426	basketball
+n02444819	otter
+n02894605	breakwater	groin	groyne	mole	bulwark	seawall	jetty
+n04344873	studio_couch	day_bed
+n02165456	ladybug	ladybeetle	lady_beetle	ladybird	ladybird_beetle
+n03594734	jean	blue_jean	denim
+n02109525	Saint_Bernard	St_Bernard
+n10287213	man	adult_male
+n08497107	arena
+n07203016	sketch	vignette
+n14654954	silver	Ag	atomic_number_47
+n01621127	owl	bird_of_Minerva	bird_of_night	hooter
+n02756098	attire	garb	dress
+n02640242	sturgeon
+n04141975	scale	weighing_machine
+n04525038	velvet
+n07567139	coloring	colouring	food_coloring	food_colouring	food_color	food_colour
+n02869837	bonnet	poke_bonnet
+n04125021	safe
+n04228054	ski
+n02879309	boutique	dress_shop
+n09204977	Arctic_Ocean
+n02607072	anemone_fish
+n07580053	side_dish	side_order	entremets
+n02425532	nilgai	nylghai	nylghau	blue_bull	Boselaphus_tragocamelus
+n01667778	terrapin
+n04306847	statue
+n07734744	mushroom
+n07753113	fig
+n03141823	crutch
+n03721384	marimba	xylophone
+n03272562	electric_locomotive
+n02111889	Samoyed	Samoyede
+n01876326	bandicoot
+n03841666	office	business_office
+n02500267	indri	indris	Indri_indri	Indri_brevicaudatus
+n07871335	macedoine
+n01983481	American_lobster	Northern_lobster	Maine_lobster	Homarus_americanus
+n07926250	lemonade
+n01984695	spiny_lobster	langouste	rock_lobster	crawfish	crayfish	sea_crawfish
+n02102318	cocker_spaniel	English_cocker_spaniel	cocker
+n02492035	capuchin	ringtail	Cebus_capucinus
+n03849814	opera	opera_house
+n02388735	chestnut
+n06799897	line
+n03186399	diagram
+n02783994	baluster
+n01739381	vine_snake
+n04459122	touring_car	phaeton	tourer
+n03933933	pier
+n08616050	pasture	pastureland	grazing_land	lea	ley
+n03527444	holster
+n04067472	reel
+n07892512	red_wine
+n00247442	roasting
+n09227839	boulder	bowlder
+n08645847	savanna	savannah
+n01632777	axolotl	mud_puppy	Ambystoma_mexicanum
+n03255030	dumbbell
+n02509515	coati	coati-mondi	coati-mundi	coon_cat	Nasua_narica
+n01833805	hummingbird
+n03992509	potter's_wheel
+n01796340	ptarmigan
+n01531178	goldfinch	Carduelis_carduelis
+n02177972	weevil
+n02699629	altar	communion_table	Lord's_table
+n00302861	acrobatics	aerobatics	stunting	stunt_flying
+n03145522	cue	cue_stick	pool_cue	pool_stick
+n02846511	blackboard	chalkboard
+n02368399	abrocome	chinchilla_rat	rat_chinchilla
+n07576438	picnic
+n03918480	personal_computer	PC	microcomputer
+n07832416	pesto
+n07899976	generic	generic_wine
+n09257761	cove
+n03459591	grill	grille	grillwork
+n02411999	ewe
+n02123394	Persian_cat
+n09454642	tarn
+n07749582	lemon
+n02412080	ram	tup
+n12998815	agaric
+n03544143	hourglass
+n05540121	skull
+n02815834	beaker
+n02122430	mouser
+n03344393	fireboat
+n07760859	custard_apple
+n03792782	mountain_bike	all-terrain_bike	off-roader
+n02723754	antique
+n03211789	display_window	shop_window	shopwindow	show_window
+n02033041	dowitcher
+n04254120	soap_dispenser
+n02692232	airport	airdrome	aerodrome	drome
+n03691459	loudspeaker	speaker	speaker_unit	loudspeaker_system	speaker_system
+n02486261	patas	hussar_monkey	Erythrocebus_patas
+n12281241	birch	birch_tree
+n08191701	navy	naval_forces
+n03351262	fishing_boat	fishing_smack	fishing_vessel
+n02431628	sambar	sambur	Cervus_unicolor
+n07880213	terrine
+n04366367	suspension_bridge
+n01820546	lorikeet
+n03976467	Polaroid_camera	Polaroid_Land_camera
+n12456845	day_lily	daylily
+n13137409	berry
+n03485407	hand-held_computer	hand-held_microcomputer
+n02786058	Band_Aid
+n07680932	bun	roll
+n03602883	joystick
+n05546540	neck	cervix
+n07753592	banana
+n11841529	Cactaceae	family_Cactaceae	cactus_family
+n03006105	channel
+n02395406	hog	pig	grunter	squealer	Sus_scrofa
+n02111277	Newfoundland	Newfoundland_dog
+n09203827	archipelago
+n11944196	thistle
+n04149813	scoreboard
+n11519253	thunderstorm	electrical_storm	electric_storm
+n03201208	dining_table	board
+n07697100	hamburger	beefburger	burger
+n02108422	bull_mastiff
+n04330267	stove
+n13040303	stinkhorn	carrion_fungus
+n14562324	ruin	ruination
+n01749939	green_mamba
+n03455033	grave	tomb
+n07879174	sukiyaki
+n02100583	vizsla	Hungarian_pointer
+n03935335	piggy_bank	penny_bank
+n02431441	hind
+n03250847	drumstick
+n01855032	red-breasted_merganser	Mergus_serrator
+n02093991	Irish_terrier
+n01737021	water_snake
+n03098959	control_tower
+n03720891	maraca
+n02138441	meerkat	mierkat
+n02105251	briard
+n02086646	Blenheim_spaniel
+n07823951	curry
+n02097474	Tibetan_terrier	chrysanthemum_dog
+n04347754	submarine	pigboat	sub	U-boat
+n00545059	percussion
+n05538625	head	caput
+n07715103	cauliflower
+n07852045	bleu	blue_cheese
+n02758134	auditorium
+n02407763	cattalo	beefalo
+n04557648	water_bottle
+n02427470	kob	Kobus_kob
+n03958227	plastic_bag
+n03206908	dish
+n06793426	poster	posting	placard	notice	bill	card
+n02871525	bookshop	bookstore	bookstall
+n02088364	beagle
+n02493793	spider_monkey	Ateles_geoffroyi
+n03429288	gauge	gage
+n07916041	martini
+n03532672	hook	claw
+n02090379	redbone
+n02097209	standard_schnauzer
+n02277742	ringlet	ringlet_butterfly
+n12985857	coral_fungus
+n02450034	marten	marten_cat
+n04367480	swab	swob	mop
+n02281406	sulphur_butterfly	sulfur_butterfly
+n09376198	ocean
+n04590553	windshield	windscreen
+n07860988	dough
+n02429456	pronghorn	prongbuck	pronghorn_antelope	American_antelope	Antilocapra_americana
+n02790996	barbell
+n02097298	Scotch_terrier	Scottish_terrier	Scottie
+n12158148	Cucurbita	genus_Cucurbita
+n04355338	sundial
+n07681926	cracker
+n03335030	fighter	fighter_aircraft	attack_aircraft
+n02116738	African_hunting_dog	hyena_dog	Cape_hunting_dog	Lycaon_pictus
+n09452395	swamp	swampland
+n01828970	bee_eater
+n07903962	grappa
+n02777734	balcony
+n02088466	bloodhound	sleuthhound
+n11900569	poppy
+n04487081	trolleybus	trolley_coach	trackless_trolley
+n03249569	drum	membranophone	tympan
+n08619524	prairie
+n04118776	rule	ruler
+n03662601	lifeboat
+n02704949	amphitheater	amphitheatre	coliseum
+n04612504	yawl
+n02443484	black-footed_ferret	ferret	Mustela_nigripes
+n02815071	bead
+n07613266	tiramisu
+n04532106	vestment
+n02120079	Arctic_fox	white_fox	Alopex_lagopus
+n01807496	partridge
+n08376250	chain	concatenation
+n08633957	port
+n02999410	chain
+n02231487	walking_stick	walkingstick	stick_insect
+n15093938	wallpaper
+n03720163	map
+n02410509	bison
+n03991062	pot	flowerpot
+n04334599	street
+n02421792	dik-dik
+n02761392	automaton	robot	golem
+n01990800	isopod
+n04238763	slide_rule	slipstick
+n02099601	golden_retriever
+n10701180	tennis_player
+n07303585	campfire
+n07616386	parfait
+n03710721	maillot	tank_suit
+n04311174	steel_drum
+n04023962	punching_bag	punch_bag	punching_ball	punchball
+n04423845	thimble
+n02088094	Afghan_hound	Afghan
+n01397497	seaweed
+n02058221	albatross	mollymawk
+n02445715	skunk	polecat	wood_pussy
+n02090721	Irish_wolfhound
+n02431785	wapiti	elk	American_elk	Cervus_elaphus_canadensis
+n10415638	performer	performing_artist
+n03977966	police_van	police_wagon	paddy_wagon	patrol_wagon	wagon	black_Maria
+n02676566	acoustic_guitar
+n08683548	wilderness	wild
+n01873310	platypus	duckbill	duckbilled_platypus	duck-billed_platypus	Ornithorhynchus_anatinus
+n00445055	surfing	surfboarding	surfriding
+n04049303	rain_barrel
+n03902125	pay-phone	pay-station
+n03963645	playground
+n12620196	rose	rosebush
+n04309049	steam_engine
+n07248320	book_jacket	dust_cover	dust_jacket	dust_wrapper
+n02072493	narwhal	narwal	narwhale	Monodon_monoceros
+n04092609	ring	band
+n02151625	wing
+n04592741	wing
+n13054560	bolete
+n04442312	toaster
+n02772197	backyard
+n04606251	wreck
+n02114548	white_wolf	Arctic_wolf	Canis_lupus_tundrarum
+n07583197	soup
+n03627232	knot
+n12267677	acorn
+n02451415	tayra	taira	Eira_barbara
+n03068181	collar	neckband
+n01798484	prairie_chicken	prairie_grouse	prairie_fowl
+n03876231	paintbrush
+n03455488	gravestone	headstone	tombstone
+n03690938	lotion
+n07908647	anisette	anisette_de_Bordeaux
+n04154565	screwdriver
+n02093428	American_Staffordshire_terrier	Staffordshire_terrier	American_pit_bull_terrier	pit_bull_terrier
+n02796995	barroom	bar	saloon	ginmill	taproom
+n04259630	sombrero
+n02402010	bovine
+n03796401	moving_van
+n07649854	meat
+n02526121	eel
+n02980441	castle
+n02484322	monkey
+n07917272	screwdriver
+n03676483	lipstick	lip_rouge
+n02951585	can_opener	tin_opener
+n02112706	Brabancon_griffon
+n09619168	female	female_person
+n03095699	container_ship	containership	container_vessel
+n02113186	Cardigan	Cardigan_Welsh_corgi
+n01641577	bullfrog	Rana_catesbeiana
+n04263257	soup_bowl
+n04209133	shower_cap
+n01955084	chiton	coat-of-mail_shell	sea_cradle	polyplacophore
+n03329302	Ferris_wheel
+n01669191	box_turtle	box_tortoise
+n04252331	snowshoe
+n07837755	demiglace	demi-glaze
+n07613480	trifle
+n02427576	lechwe	Kobus_leche
+n01664065	loggerhead	loggerhead_turtle	Caretta_caretta
+n03059528	cobble	cobblestone	sett
+n02504013	Indian_elephant	Elephas_maximus
+n07923748	juice
+n04118021	rug	carpet	carpeting
+n03558176	ice_rink	ice-skating_rink	ice
+n06780678	cartoon	sketch
+n02841315	binoculars	field_glasses	opera_glasses
+n04270147	spatula
+n04517823	vacuum	vacuum_cleaner
+n04318131	stick
+n04103364	rolling_stock
+n12144580	corn
+n03759954	microphone	mike
+n02355227	squirrel
+n04556204	watchband	watchstrap	wristband	watch_bracelet	bracelet
+n02386310	workhorse
+n04192238	shelter
+n03063689	coffeepot
+n10285313	male_child	boy
+n03709823	mailbag	postbag
+n02236044	mantis	mantid
+n02494079	squirrel_monkey	Saimiri_sciureus
+n02114367	timber_wolf	grey_wolf	gray_wolf	Canis_lupus
+n02860847	bobsled	bobsleigh	bob
+n08439022	jungle
+n02686568	aircraft
+n04037443	racer	race_car	racing_car
+n04522168	vase
+n09316454	island
+n02086240	Shih-Tzu
+n02416519	goat	caprine_animal
+n09217230	beach
+n03825788	nipple
+n03877472	pajama	pyjama	pj's	jammies
+n09387222	path	track	course
+n03954731	plane	carpenter's_plane	woodworking_plane
+n07574602	breakfast
+n02219486	ant	emmet	pismire
+n13778671	parking
+n04131690	saltshaker	salt_shaker
+n02422391	sassaby	topi	Damaliscus_lunatus
+n02794156	barometer
+n04610013	yacht	racing_yacht
+n07683360	bannock
+n02384741	steeplechaser
+n14705287	paste
+n04078747	reservoir	artificial_lake	man-made_lake
+n03832673	notebook	notebook_computer
+n07836838	chocolate_sauce	chocolate_syrup
+n04333129	strap
+n02672831	accordion	piano_accordion	squeeze_box
+n09403427	rainbow
+n04560804	water_jug
+n02504458	African_elephant	Loxodonta_africana
+n04188179	sheet	bed_sheet
+n04335435	streetcar	tram	tramcar	trolley	trolley_car
+n09225943	bog	peat_bog
+n02906734	broom
+n02089232	dachshund	dachsie	badger_dog
+n04389033	tank	army_tank	armored_combat_vehicle	armoured_combat_vehicle
+n02168699	long-horned_beetle	longicorn	longicorn_beetle
+n02105412	kelpie
+n07832592	ravigote	ravigotte
+n07880458	schnitzel	Wiener_schnitzel
+n01791625	chicken	Gallus_gallus
+n03840681	ocarina	sweet_potato
+n07754684	jackfruit	jak	jack
+n03287733	engine
+n03355925	flagpole	flagstaff
+n05305806	lip
+n03014705	chest
+n01817953	African_grey	African_gray	Psittacus_erithacus
+n03661043	library
+n02377480	mare	female_horse
+n06851742	trademark
+n02423022	gazelle
+n02109047	Great_Dane
+n03427296	gate
+n02093859	Kerry_blue_terrier
+n03079136	compact	compact_car
+n02943241	camera_lens	optical_lens
+n02992211	cello	violoncello
+n00910070	needlework	needlecraft
+n02457408	three-toed_sloth	ai	Bradypus_tridactylus
+n03297495	espresso_maker
+n02818832	bed
+n02978881	cassette
+n00482298	tennis	lawn_tennis
+n02437312	Arabian_camel	dromedary	Camelus_dromedarius
+n03683995	locket
+n07631023	cupcake
+n01667114	mud_turtle
+n03443371	goblet
+n05282746	tooth
+n07576781	barbecue	barbeque
+n00440747	skiing
+n03884397	panpipe	pandean_pipe	syrinx
+n01484850	great_white_shark	white_shark	man-eater	man-eating_shark	Carcharodon_carcharias
+n07657903	steak
+n03995372	power_drill
+n02112137	chow	chow_chow
+n09963320	cook
+n00442115	swimming	swim
+n03984234	porcelain
+n02973558	carving
+n02776631	bakery	bakeshop	bakehouse
+n02704792	amphibian	amphibious_vehicle
+n02951358	canoe
+n03666591	lighter	light	igniter	ignitor
+n13252513	plantation
+n03776050	moat	fosse
+n04252225	snowplow	snowplough
+n07843464	souffle
+n02102177	Welsh_springer_spaniel
+n14915184	ice	water_ice
+n02417914	ibex	Capra_ibex
+n03927201	photomontage
+n04426788	thread	yarn
+n05254393	hair	pilus
+n03131574	crib	cot
+n09289331	glacier
+n03584254	iPod
+n02226429	grasshopper	hopper
+n02106382	Bouvier_des_Flandres	Bouviers_des_Flandres
+n03538406	horse_cart	horse-cart
+n02091244	Ibizan_hound	Ibizan_Podenco
+n04266014	space_shuttle
+n04548280	wall_clock
+n12655869	raspberry	raspberry_bush
+n01843065	jacamar
+n03770679	minivan
+n08570634	hayfield	meadow
+n03733281	maze	labyrinth
+n09468604	valley	vale
+n01917289	brain_coral
+n03425413	gas_pump	gasoline_pump	petrol_pump	island_dispenser
+n03495258	harp
+n09302616	highland	upland
+n03259280	Dutch_oven
+n00469651	American_football	American_football_game
+n01872401	echidna	spiny_anteater	anteater
+n07705711	produce	green_goods	green_groceries	garden_truck
+n02100877	Irish_setter	red_setter
+n03888605	parallel_bars	bars
+n10034020	drill_master	drill_instructor
+n07871810	meat_loaf	meatloaf
+n02233338	cockroach	roach
+n02107683	Bernese_mountain_dog
+n03947888	pirate	pirate_ship
+n02102040	English_springer	English_springer_spaniel
+n02730930	apron
+n07718472	cucumber	cuke
+n02087394	Rhodesian_ridgeback
+n02099849	Chesapeake_Bay_retriever
+n02536864	coho	cohoe	coho_salmon	blue_jack	silver_salmon	Oncorhynchus_kisutch
+n02701002	ambulance
+n09842047	basketball_player	basketeer	cager
+n03679712	living_room	living-room	sitting_room	front_room	parlor	parlour
+n02017213	European_gallinule	Porphyrio_porphyrio
+n03970156	plunger	plumber's_helper
+n03017168	chime	bell	gong
+n08614229	paddy	paddy_field	rice_paddy
+n02094433	Yorkshire_terrier
+n05851131	badge
+n07611991	mousse
+n02443114	polecat	fitch	foulmart	foumart	Mustela_putorius
+n09326662	knoll	mound	hillock	hummock	hammock
+n02125311	cougar	puma	catamount	mountain_lion	painter	panther	Felis_concolor
+n02487347	macaque
+n01687978	agama
+n04380143	tablecloth
+n03777568	Model_T
+n02687172	aircraft_carrier	carrier	flattop	attack_aircraft_carrier
+n03075370	combination_lock
+n03485794	handkerchief	hankie	hanky	hankey
+n07935043	souchong	soochong
+n03110669	cornet	horn	trumpet	trump
+n03547054	hovel	hut	hutch	shack	shanty
+n03933529	pier	wharf	wharfage	dock
+n02087046	toy_terrier
+n03930630	pickup	pickup_truck
+n04275363	spider_web	spider's_web
+n01560105	nightingale	Luscinia_megarhynchos
+n04141076	sax	saxophone
+n07843775	dairy_product
+n03680355	Loafer
+n07993776	wildlife
+n01592084	chickadee
+n04468005	train	railroad_train
+n08191230	army	regular_army	ground_forces
+n02082791	aardvark	ant_bear	anteater	Orycteropus_afer
+n04363559	surfboard
+n12421467	narcissus
+n03394916	French_horn	horn
+n02454379	armadillo
+n02091134	whippet
+n01883070	wombat
+n01819313	sulphur-crested_cockatoo	Kakatoe_galerita	Cacatua_galerita
+n03903868	pedestal	plinth	footstall
+n12102133	grass
+n02113624	toy_poodle
+n03337140	file	file_cabinet	filing_cabinet
+n04336792	stretcher
+n02877765	bottlecap
+n01692333	Gila_monster	Heloderma_suspectum
+n03896103	passenger_ship
+n02979186	cassette_player
+n02788148	bannister	banister	balustrade	balusters	handrail
+n02787622	banjo
+n05546040	jaw
+n02783161	ballpoint	ballpoint_pen	ballpen	Biro
+n02471762	hominid
+n04209239	shower_curtain
+n02129165	lion	king_of_beasts	Panthera_leo
+n02085620	Chihuahua
+n02132136	brown_bear	bruin	Ursus_arctos
+n02356798	fox_squirrel	eastern_fox_squirrel	Sciurus_niger
+n04009552	projector
+n03948242	piste
+n02692877	airship	dirigible
+n02095412	wirehair	wirehaired_terrier	wire-haired_terrier
+n03479952	hallway	hall
+n07857170	miso
+n02013706	limpkin	Aramus_pictus
+n15098161	wood
+n02130308	cheetah	chetah	Acinonyx_jubatus
+n07450842	ceremony	ceremonial	ceremonial_occasion	observance
+n02432291	Virginia_deer	white_tail	whitetail	white-tailed_deer	whitetail_deer	Odocoileus_Virginianus
+n04277352	spindle
+n03888257	parachute	chute
+n01748264	Indian_cobra	Naja_naja
+n12620546	hip	rose_hip	rosehip
+n04325704	stole
+n02110341	dalmatian	coach_dog	carriage_dog
+n06267145	newspaper	paper
+n07869611	jambalaya
+n07858978	honey
+n02403003	ox
+n07615774	ice_lolly	lolly	lollipop	popsicle
+n01616318	vulture
+n02916936	bulletproof_vest
+n02404906	zebu
+n01729322	hognose_snake	puff_adder	sand_viper
+n15041050	siding
+n02268443	dragonfly	darning_needle	devil's_darning_needle	sewing_needle	snake_feeder	snake_doctor	mosquito_hawk	skeeter_hawk
+n03949442	pit	quarry	stone_pit
+n02206856	bee
+n03445777	golf_ball
+n02984061	cathedral
+n09229409	brook	creek
+n04604644	worm_fence	snake_fence	snake-rail_fence	Virginia_fence
+n01608432	kite
+n03124170	cowboy_hat	ten-gallon_hat
+n03775071	mitten
+n04162706	seat_belt	seatbelt
+n02780916	ball_field	baseball_field	diamond
+n03621473	kite
+n02946921	can	tin	tin_can
+n03868242	oxcart
+n02997391	ceramic
+n03125729	cradle
+n03613294	key
+n04589190	window_blind
+n03983396	pop_bottle	soda_bottle
+n04428191	thresher	thrasher	threshing_machine
+n03799710	mural	wall_painting
+n03692522	loupe	jeweler's_loupe
+n01858441	swan
+n01734418	king_snake	kingsnake
+n03388183	fountain_pen
+n02134084	ice_bear	polar_bear	Ursus_Maritimus	Thalarctos_maritimus
+n03899768	patio	terrace
+n01644900	tailed_frog	bell_toad	ribbed_toad	tailed_toad	Ascaphus_trui
+n03770439	miniskirt	mini
+n02105855	Shetland_sheepdog	Shetland_sheep_dog	Shetland
+n03472535	gym_shoe	sneaker	tennis_shoe
+n03127747	crash_helmet
+n02485371	grivet	Cercopithecus_aethiops
+n03595860	jet	jet_plane	jet-propelled_plane
+n07739125	apple
+n08182379	crowd
+n08428485	parade
+n15008607	rain	rainwater
+n02097047	miniature_schnauzer
+n04372370	switch	electric_switch	electrical_switch
+n04190052	shelf
+n03633091	ladle
+n07930864	cup
+n07019172	musical	musical_comedy	musical_theater
+n01697457	African_crocodile	Nile_crocodile	Crocodylus_niloticus
+n02091467	Norwegian_elkhound	elkhound
+n03147509	cup
+n02509197	kinkajou	honey_bear	potto	Potos_flavus	Potos_caudivolvulus
+n09332890	lakeside	lakeshore
+n12619306	Rosaceae	family_Rosaceae	rose_family
+n04579432	whistle
+n01770393	scorpion
+n03972524	pocket
+n02439033	giraffe	camelopard	Giraffa_camelopardalis
+n02990373	ceiling
+n04310018	steam_locomotive
+n02134418	sloth_bear	Melursus_ursinus	Ursus_ursinus
+n00892413	workshop
+n02858179	boardwalk
+n02879718	bow
+n07879450	sushi
+n01704323	triceratops
+n04486054	triumphal_arch
+n03785016	moped
+n03223299	doormat	welcome_mat
+n07857731	hummus	humus	hommos	hoummos	humous
+n02939185	caldron	cauldron
+n02390258	hinny
+n03776460	mobile_home	manufactured_home
+n07456638	athletic_contest	athletic_competition	athletics
+n07683490	chapatti	chapati
+n03483316	hand_blower	blow_dryer	blow_drier	hair_dryer	hair_drier
+n07892418	vintage
+n04392985	tape_player
+n01632458	spotted_salamander	Ambystoma_maculatum
+n04201297	shoji
+n03216828	dock	dockage	docking_facility
+n01774750	tarantula
+n03444034	go-kart
+n02101006	Gordon_setter
+n03742115	medicine_chest	medicine_cabinet
+n04347119	subcompact	subcompact_car
+n01699831	dinosaur
+n01534433	junco	snowbird
+n01682714	American_chameleon	anole	Anolis_carolinensis
+n02086079	Pekinese	Pekingese	Peke
+n04285008	sports_car	sport_car
+n08505573	desert
+n02099267	flat-coated_retriever
+n07745940	strawberry
+n02127052	lynx	catamount
+n07593004	pot-au-feu
+n03038685	classroom	schoolroom
+n04296562	stage
+n02606052	rock_beauty	Holocanthus_tricolor
+n01770081	harvestman	daddy_longlegs	Phalangium_opilio
+n03457902	greenhouse	nursery	glasshouse
+n02963159	cardigan
+n03494278	harmonica	mouth_organ	harp	mouth_harp
+n02408429	water_buffalo	water_ox	Asiatic_buffalo	Bubalus_bubalis
+n02508742	bassarisk	cacomistle	cacomixle	coon_cat	raccoon_fox	ringtail	ring-tailed_cat	civet_cat	miner's_cat	Bassariscus_astutus
+n14761122	caffeine	caffein
+n08248157	orchestra
+n10148035	groom	bridegroom
+n08553535	residential_district	residential_area	community
+n02797295	barrow	garden_cart	lawn_cart	wheelbarrow
+n07694659	shortcake
+n02092002	Scottish_deerhound	deerhound
+n04587404	windmill	aerogenerator	wind_generator
+n06696483	award	accolade	honor	honour	laurels
+n03519981	highway	main_road
+n02011460	bittern
+n04092305	rim
+n02488291	langur
+n02130086	tiglon	tigon
+n06791372	signal	signaling	sign
+n02076196	seal
+n03710193	mailbox	letter_box
+n03868863	oxygen_mask
+n04265275	space_heater
+n02087314	courser
+n04019541	puck	hockey_puck
+n04286575	spotlight	spot
+n04398044	teapot
+n01097292	market	marketplace	market_place
+n01675722	banded_gecko
+n02283201	moth
+n02352591	dormouse
+n07910245	kummel
+n02346627	porcupine	hedgehog
+n04555897	watch	ticker
+n04274530	sphere
+n02804414	bassinet
+n02895154	breastplate	aegis	egis
+n02791124	barber_chair
+n03976657	pole
+n03316406	factory	mill	manufacturing_plant	manufactory
+n13876371	spiral
+n10665698	student	pupil	educatee
+n03085219	computer_monitor
+n07735510	pumpkin
+n03617480	kimono
+n03075097	comb
+n04558578	watercolor	water-color	watercolour	water-colour
+n07913644	bullshot
+n02499808	galago	bushbaby	bush_baby
+n08651832	slum	slum_area
+n01818515	macaw
+n07747607	orange
+n08615638	parking_lot	car_park	park	parking_area
+n07854614	ricotta
+n11879895	rapeseed
+n03393912	freight_car
+n07742313	Granny_Smith
+n07899108	vermouth
+n01630670	common_newt	Triturus_vulgaris
+n09835506	ballplayer	baseball_player
+n01539573	sparrow	true_sparrow
+n02129991	liger
+n02280649	cabbage_butterfly
+n03134739	croquet_ball
+n04492749	truss_bridge
+n03967562	plow	plough
+n11950345	chrysanthemum
+n09256479	coral_reef
+n00463543	ice_hockey	hockey	hockey_game
+n02120997	feline	felid
+n02883205	bow_tie	bow-tie	bowtie
+n02321529	sea_cucumber	holothurian
+n02378415	warhorse
+n02102480	Sussex_spaniel
+n03942813	ping-pong_ball
+n04074963	remote_control	remote
+n01776313	tick
+n09475179	watercourse
+n12268246	oak	oak_tree
+n01601694	water_ouzel	dipper
+n07303335	bonfire	balefire
+n03726760	mast
+n04597913	wooden_spoon
+n03657121	lens_cap	lens_cover
+n09827683	baby	babe	infant
+n03016953	chiffonier	commode
+n07822197	catsup	ketchup	cetchup	tomato_ketchup
+n02906175	bronze
+n01756291	sidewinder	horned_rattlesnake	Crotalus_cerastes
+n04097527	road_surface
+n04044716	radio_telescope	radio_reflector
+n02084861	cur	mongrel	mutt
+n00503237	chess	chess_game
+n07804323	rice
+n07893642	champagne	bubbly
+n02843684	birdhouse
+n00936456	origami
+n04465501	tractor
+n09399592	promontory	headland	head	foreland
+n07806221	salad
+n07876189	sauerkraut
+n02190166	fly
+n02169497	leaf_beetle	chrysomelid
+n02768226	backboard	basketball_backboard
+n02804610	bassoon
+n03673450	lingerie	intimate_apparel
+n03800563	museum
+n03782006	monitor
+n01758308	beak	bill	neb	nib	pecker
+n04474035	transporter	car_transporter
+n02655020	puffer	pufferfish	blowfish	globefish
+n02493509	titi	titi_monkey
+n00329468	snowboarding
+n06403969	calligraphy	penmanship	chirography
+n01644373	tree_frog	tree-frog
+n09358358	Moon	moon
+n04482393	tricycle	trike	velocipede
+n02380335	pony
+n04591157	Windsor_tie
+n10412055	pedestrian	walker	footer
+n02421136	addax	Addax_nasomaculatus
+n01802309	Phasianidae	family_Phasianidae
+n13129165	stalk	stem
+n02147947	pipistrelle	pipistrel	Pipistrellus_pipistrellus
+n03761084	microwave	microwave_oven
+n08221897	audience
+n02375302	roan
+n04113406	roulette_wheel	wheel
+n07910379	maraschino	maraschino_liqueur
+n03388043	fountain
+n09212572	badlands
+n04554684	washer	automatic_washer	washing_machine
+n03786901	mortar
+n07838073	gravy
+n03345487	fire_engine	fire_truck
+n02839110	billboard	hoarding
+n01584225	wren	jenny_wren
+n03598930	jigsaw_puzzle
+n14834132	dew
+n02470238	simian
+n02873839	booth	cubicle	stall	kiosk
+n03773504	missile
+n02910353	buckle
+n04515003	upright	upright_piano
+n02490219	marmoset
+n04542943	waffle_iron
+n02643566	lionfish
+n03207941	dishwasher	dish_washer	dishwashing_machine
+n04311004	steel_arch_bridge
+n02328150	Angora	Angora_rabbit
+n07937621	ramekin	ramequin
+n08619620	public_square	square
+n04443257	tobacco_shop	tobacconist_shop	tobacconist
+n03891332	parking_meter
+n02965783	car_mirror
+n07933274	tea
+n04153751	screw
+n12212361	vegetable
+n01889074	insectivore
+n03642806	laptop	laptop_computer
+n07717556	butternut_squash
+n02892767	brassiere	bra	bandeau
+n02276258	admiral
+n01882714	koala	koala_bear	kangaroo_bear	native_bear	Phascolarctos_cinereus
+n03874599	padlock
+n02898369	brickwork
+n07683617	pita	pocket_bread
+n04523525	vault
+n03794056	mousetrap
+n02115913	dhole	Cuon_alpinus
+n02715513	anteroom	antechamber	entrance_hall	hall	foyer	lobby	vestibule
+n04070727	refrigerator	icebox
+n02325366	wood_rabbit	cottontail	cottontail_rabbit
+n02433925	caribou	reindeer	Greenland_caribou	Rangifer_tarandus
+n02867715	bomber
+n03365592	floor	flooring
+n07601999	chocolate
+n01558993	robin	American_robin	Turdus_migratorius
+n04146614	school_bus
+n06410904	book
+n04456115	torch
+n09917593	child	kid	youngster	minor	shaver	nipper	small_fry	tiddler	tike	tyke	fry	nestling
+n11719286	peony	paeony
+n03837869	obelisk
+n09474010	wadi
+n03424325	gasmask	respirator	gas_helmet
+n05320899	ear
+n02002724	black_stork	Ciconia_nigra
+n13133613	ear	spike	capitulum
+n04243546	slot	one-armed_bandit
+n04429376	throne
+n01580077	jay
+n06619065	show
+n04004767	printer
+n03717622	manhole_cover
+n02110806	basenji
+n06878071	smile	smiling	grin	grinning
+n01980166	fiddler_crab
+n07579917	adobo
+n03658185	letter_opener	paper_knife	paperknife
+n11620673	fir	fir_tree	true_fir
+n02074367	dugong	Dugong_dugon
+n07802026	hay
+n03519387	high-rise	tower_block
+n04041544	radio	wireless
+n02992529	cellular_telephone	cellular_phone	cellphone	cell	mobile_phone
+n03594945	jeep	landrover
+n01688243	frilled_lizard	Chlamydosaurus_kingi
+n03929660	pick	plectrum	plectron
+n07935288	hyson
+n07672914	margarine	margarin	oleo	oleomargarine	marge
+n02441942	weasel
+n05560787	leg
+n03467068	guillotine
+n03032252	cinema	movie_theater	movie_the

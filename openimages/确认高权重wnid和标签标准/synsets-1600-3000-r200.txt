@@ -1,0 +1,420 @@
+n04524313	1505906	vehicle	a conveyance that transports people or objects
+n00017222	969081	"plant,flora,plant_life"	(botany) a living organism lacking the power of locomotion
+n11669921	723262	flower	a plant cultivated for its blooms or blossoms
+n00523513	628893	"sport,athletics"	an active diversion requiring physical exertion and competition
+n00021265	578598	"food,nutrient"	any substance that can be metabolized by an animal to give energy and build tissue
+n13104059	571348	tree	a tall perennial woody plant having a main trunk and branches forming a distinct elevated crown; includes both gymnosperms and angiosperms
+n04407435	495904	temple	place of worship consisting of an edifice for the worship of a deity
+n07942152	463801	people	(plural) any group of human beings (men or women or children) collectively
+n01861778	391736	"mammal,mammalian"	any warm-blooded vertebrate having the skin more or less covered with hair; young are born alive except for the small subclass of monotremes and nourished with milk
+n03931044	365091	"picture,image,icon,ikon"	a visual representation (of an object or scene or person or abstraction) produced on a surface
+n02913152	345688	"building,edifice"	a structure that has a roof and walls and stands more or less permanently in one place
+n07573696	300079	"meal,repast"	the food served and eaten at one time
+n04096066	293159	"road,route"	an open way (generally public) for travel or transportation
+n04546855	292098	wall	an architectural partition with a height and length greater than its thickness; used to divide or enclose an area or to support another structure
+n09436708	281264	sky	the atmosphere and outer space as viewed from the earth
+n09428293	279838	"seashore,coast,seacoast,sea-coast"	the shore of a sea or ocean
+n09359803	269325	"mountain,mount"	a land mass that projects well above its surroundings; higher than a hill
+n04334599	256480	street	a thoroughfare (usually including sidewalks) that is lined with buildings
+n03743902	234934	"memorial,monument"	a structure erected to commemorate persons or events
+n03544360	226042	house	a dwelling that serves as living quarters for one or more families
+n12102133	218909	grass	narrow-leaved green herbage: grown as lawns; used as pasture for grazing animals; cut and dried as hay
+n03206908	216197	dish	a piece of dishware normally used as a container for holding or serving food
+n09416076	215170	"rock,stone"	a lump or mass of hard consolidated mineral matter
+n04296562	205507	stage	a large platform on which people can stand and can be seen by an audience
+n08182379	191825	crowd	a large number of things or people considered together
+n09376198	188381	ocean	a large body of water constituting a principal part of the hydrosphere
+n04105893	180649	room	an area within a building enclosed by walls and floor and ceiling
+n04460130	178056	tower	a structure taller than its diameter; can stand alone or be attached to a larger building
+n09303008	176401	hill	a local and well-defined elevation of the land
+n04574999	175892	wheel	a simple machine consisting of a circular frame with spokes (or a solid disc) that can rotate on a shaft or axle (as in vehicles or other machines)
+n01318894	174475	pet	a domesticated animal kept for companionship or amusement
+n04587648	171217	window	a framework of wood or metal that contains a glass windowpane and is built into a wall or roof to admit light or air
+n03953416	166174	"place_of_worship,house_of_prayer,house_of_God,house_of_worship"	any building where congregations gather for prayer
+n09217230	160647	beach	an area of sand sloping down to the water of a sea or lake
+n04295881	158358	"stadium,bowl,arena,sports_stadium"	a large structure for open-air sports or entertainments
+n02686568	147884	aircraft	a vehicle that can fly
+n09403734	143035	"range,mountain_range,range_of_mountains,chain,mountain_chain,chain_of_mountains"	a series of hills or mountains
+n09453008	140047	"tableland,plateau"	a relatively flat highland
+n04233124	133918	skyscraper	a very tall building with many stories
+n06892775	130262	concert	a performance of music by players or singers not involving theatrical staging
+n02121620	127767	"cat,true_cat"	feline mammal usually having thick soft fur and no ability to roar: domestic cats; wildcats
+n07881800	125374	"beverage,drink,drinkable,potable"	any liquid suitable for drinking
+n03405725	124438	"furniture,piece_of_furniture,article_of_furniture"	furnishings that make a room or other area ready for occupancy
+n15019030	122678	sand	a loose material consisting of grains of rock or coral
+n04272054	120863	"spectacles,specs,eyeglasses,glasses"	optical instrument consisting of a frame that holds a pair of lenses for correcting defective vision
+n11672400	117733	"wildflower,wild_flower"	wild or uncultivated flowering plant
+n02159955	115605	insect	small air-breathing arthropod
+n02858304	115226	boat	a small vessel for travel on water
+n02512053	111202	fish	any of various mostly cold-blooded aquatic vertebrates usually having scales and breathing through gills
+n04285008	110110	"sports_car,sport_car"	a small low car with a high-powered engine; usually seats two persons
+n04166281	108973	"sedan,saloon"	a car that is closed and that has front and rear seats and two or four doors
+n04081281	108861	"restaurant,eating_house,eating_place,eatery"	a building where people go to eat
+n09468604	107226	"valley,vale"	a long depression in the surface of the land that usually contains a river
+n09246464	100235	"cliff,drop,drop-off"	a steep high face of rock
+n02919792	99954	"bungalow,cottage"	a small house with a single story
+n03309808	99903	"fabric,cloth,material,textile"	artifact made by weaving or felting or knitting or crocheting natural or synthetic fibers
+n03113657	98292	costume	the attire worn in a play or at a fancy dress ball
+n07574602	95335	breakfast	the first meal of the day (usually in the morning)
+n06470073	92318	"document,written_document,papers"	writing that provides information (especially information of an official nature)
+n09393605	86674	"plain,field,champaign"	extensive tract of level open land
+n03028079	84705	"church,church_building"	a place for public (especially Christian) worship
+n02898711	81312	"bridge,span"	a structure that allows people or vehicles to cross an obstacle such as a river or canal or railway etc.
+n03665366	77733	"light,light_source"	any device serving as a source of illumination
+n03800933	77730	"musical_instrument,instrument"	any of various devices or contrivances that can be used to produce musical tones or sounds
+n08598301	74820	grassland	land where grass or grasslike vegetation grows and is the dominant form of plant life
+n07575076	74769	"lunch,luncheon,tiffin,dejeuner"	a midday meal
+n03079136	67399	"compact,compact_car"	a small and economical car
+n00468480	66769	"football,football_game"	any of various games played with a ball (round or oval) in which two teams try to kick or carry or propel the ball into each other's goal
+n03294048	66337	equipment	an instrumentality needed for an undertaking or to perform a service
+n04285146	63952	sports_equipment	equipment needed to participate in a particular sport
+n02984061	63325	cathedral	any large and important church
+n04105068	63317	roof	a protective covering that covers or forms the top of a building
+n04194289	62811	ship	a vessel that carries passengers or freight
+n13134947	62708	fruit	the ripened reproductive body of a seed plant
+n03781244	62159	monastery	the residence of a religious community
+n09450163	61809	"sun,Sun"	the star that is the source of light and heat for the planets in the solar system
+n02729965	61501	"appliance,contraption,contrivance,convenience,gadget,gizmo,gismo,widget"	a device or control that is very useful for a particular job
+n02990373	61421	ceiling	the overhead upper surface of a covered space
+n03699975	60298	machine	any mechanical or electrical device that transmits or modifies energy to perform or assist in the performance of human tasks
+n10439851	59167	"player,participant"	a person who participates in or is skilled at some game
+n03726760	56948	mast	a vertical spar for supporting sails
+n03792782	52659	"mountain_bike,all-terrain_bike,off-roader"	a bicycle with a sturdy frame and fat tires; originally designed for riding in mountainous country
+n02840619	49906	"binding,book_binding,cover,back"	"the protective covering on the front, back, and spine of a book"
+n02931417	47404	"cabaret,nightclub,night_club,club,nightspot"	a spot that is open late at night and that provides entertainment (as singers or dancers) as well as dancing and food and drink
+n02283201	44948	moth	typically crepuscular or nocturnal insect having a stout body and feathery or hairlike antennae
+n04374735	44240	"synagogue,temple,tabernacle"	(Judaism) the place of worship for a Jewish congregation
+n11939491	43669	daisy	any of numerous composite plants having flower heads with well-developed ray flowers usually arranged in a single whorl
+n02788021	41428	"banner,streamer"	long strip of cloth or paper used for decoration or advertising
+n04037443	41416	"racer,race_car,racing_car"	a fast car that competes in races
+n02897820	39357	brick	rectangular block of clay baked by the sun or in a kiln; used as a building or paving material
+n03073977	37968	"column,pillar"	(architecture) a tall vertical cylindrical structure standing upright and used to support a structure
+n08640531	36566	"resort,resort_hotel,holiday_resort"	a hotel located in a resort area
+n03100240	35873	convertible	a car that has top that can be folded or removed
+n02796995	35495	"barroom,bar,saloon,ginmill,taproom"	a room or establishment where alcoholic drinks are served over a counter
+n02687423	35139	aircraft_engine	the engine that powers and aircraft
+n02732072	33974	"aquarium,fish_tank,marine_museum"	a tank or pool or bowl filled with water for keeping live fish and underwater animals
+n01661091	33941	"reptile,reptilian"	"any cold-blooded vertebrate of the class Reptilia including tortoises, turtles, snakes, lizards, alligators, crocodiles, and extinct forms"
+n03748162	33491	"mercantile_establishment,retail_store,sales_outlet,outlet"	a place of business for retailing goods
+n03221720	32781	door	a swinging or sliding barrier that will close the entrance to a room or building or vehicle
+n03684823	31923	"locomotive,engine,locomotive_engine,railway_locomotive"	a wheeled vehicle consisting of a self-propelled engine that is used to draw trains along railway tracks
+n06794110	31526	street_sign	a sign visible from the street
+n04285965	31063	"sport_utility,sport_utility_vehicle,S.U.V.,SUV"	a high-performance four-wheel drive car built on a truck chassis
+n02942699	30548	"camera,photographic_camera"	equipment for taking photographs (usually consisting of a lightproof box with a lens at one end and light-sensitive film at the other)
+n02778669	30360	ball	round object that is hit or thrown or kicked in games
+n02876657	29921	bottle	a glass or plastic vessel used for storing drinks or other liquids; typically cylindrical without handles and with a narrow neck that can be plugged or capped
+n00441824	29523	"water_sport,aquatics"	sports that involve bodies of water
+n07575726	29472	dinner	the main meal of the day served in the evening or at midday
+n03547054	29450	"hovel,hut,hutch,shack,shanty"	small crude shelter used as a dwelling
+n04490091	28818	"truck,motortruck"	an automotive vehicle suitable for hauling
+n04199027	28362	shoe	footwear shaped to fit the foot (below the ankle) with a flexible upper of leather or plastic and a sole and heel of heavier material
+n07907943	28277	"liqueur,cordial"	strong highly flavored sweet liquor usually drunk after a meal
+n03963645	27664	playground	yard consisting of an outdoor area for children's play
+n01322604	27363	puppy	a young dog
+n00445351	27115	"rowing,row"	the act of rowing as a sport
+n03287733	26860	engine	motor that converts thermal energy to mechanical work
+n02959942	26683	"car,railcar,railway_car,railroad_car"	a wheeled vehicle adapted to the rails of railroad
+n03327234	26625	"fence,fencing"	a barrier that serves to enclose an area
+n03512147	26548	"helicopter,chopper,whirlybird,eggbeater"	an aircraft without wings that obtains its lift from the rotation of overhead blades
+n03595860	25318	"jet,jet_plane,jet-propelled_plane"	an airplane powered by one or more jet engines
+n03504723	25174	"headquarters,central_office,main_office,home_office,home_base"	(usually plural) the office that serves as the administrative center of an enterprise
+n04128499	24652	"sailboat,sailing_boat"	a small sailing vessel; usually with a single mast
+n02992529	24431	"cellular_telephone,cellular_phone,cellphone,cell,mobile_phone"	"a hand-held mobile radiotelephone for use in an area divided into small sections, each with its own short-range transmitter/receiver"
+n03120198	24427	"court,courtyard"	an area wholly or partly surrounded by walls or buildings
+n10599806	24327	"singer,vocalist,vocalizer,vocaliser"	a person who sings
+n01846331	24165	duck	small wild or domesticated web-footed broad-billed swimming bird usually having a depressed body and short legs
+n07886849	23361	beer	a general name for alcoholic beverages made by fermenting a cereal (or mixture of cereals) flavored with hops
+n03038685	23057	"classroom,schoolroom"	a room in a school where lessons take place
+n02690373	22739	airliner	a commercial airplane that carries passengers
+n01858441	22666	swan	stately heavy-bodied aquatic bird with very long neck and usually white plumage as adult
+n02892201	22026	"brass,memorial_tablet,plaque"	a memorial made of brass
+n03220513	21886	dome	a hemispherical roof
+n09238926	20397	cave	a geological formation consisting of an underground enclosure with access from the surface of the ground or from the sea
+n04190052	20380	shelf	a support that consists of a horizontal surface for holding objects
+n10148035	20010	"groom,bridegroom"	a man participant in his own marriage ceremony
+n03329663	19754	"ferry,ferryboat"	a boat that transports people or vehicles across a body of water and operates on a regular schedule
+n04565375	19673	"weapon,arm,weapon_system"	any instrument or instrumentality used in fighting or hunting
+n03450230	18813	gown	"a woman's dress, usually with a close-fitting bodice and a long flared skirt, often worn on formal occasions"
+n06998748	18109	"artwork,art,graphics,nontextual_matter"	photographs or other visual representations in a printed publication
+n04215402	17868	"sidewalk,pavement"	walk consisting of a paved area for pedestrians; usually beside a street or roadway
+n03478907	17806	hall	a large room for gatherings or entertainment
+n03335030	16983	"fighter,fighter_aircraft,attack_aircraft"	a high-speed military or naval airplane designed to destroy enemy aircraft in the air
+n07574923	16737	brunch	combination breakfast and lunch; usually served in late morning
+n04225987	16252	skateboard	a board with wheels that is ridden in a standing or crouching position and propelled by foot
+n02804123	16144	bass_guitar	the guitar with six strings that has the lowest pitch
+n03316406	15910	"factory,mill,manufacturing_plant,manufactory"	a plant consisting of one or more buildings with facilities for manufacturing
+n02954340	15838	cap	a tight-fitting headdress
+n14974264	15642	paper	a material made of cellulose pulp derived mainly from wood or rags or certain grasses
+n07711080	15613	"french_fries,french-fried_potatoes,fries,chips"	strips of potato fried in deep fat
+n04313503	15336	"steering_wheel,wheel"	a handwheel that is used for steering
+n02686121	14868	airbus	a subsonic jet airliner operated over short distances
+n03595614	14785	"jersey,T-shirt,tee_shirt"	a close-fitting pullover shirt
+n06596364	14707	comic_book	a magazine devoted to comic strips
+n04314914	14591	"step,stair"	support consisting of a place to rest the foot while ascending or descending a stairway
+n04435180	14553	tile	a flat thin rectangular slab (as of fired clay or rubber or linoleum) used to cover surfaces
+n08494231	14523	"amusement_park,funfair,pleasure_ground"	a commercially operated park with stalls and shows for amusement
+n04128837	14429	"sailing_vessel,sailing_ship"	a vessel that is powered by the wind; often having several masts
+n04610013	14256	"yacht,racing_yacht"	an expensive vessel propelled by sail or power and used for cruising or racing
+n07891726	14223	"wine,vino"	fermented juice (of grapes especially)
+n02951358	14131	canoe	small and light boat; pointed at both ends; propelled with a paddle
+n02873839	13870	"booth,cubicle,stall,kiosk"	small area set off by walls for special use
+n02997391	13749	ceramic	an artifact made of hard brittle material produced from nonmetallic minerals by firing at high temperatures
+n00471613	13709	"baseball,baseball_game"	a ball game played with a bat and ball between two teams of nine players; teams take turns at bat trying to score runs
+n02826886	13654	bell_tower	a tower that supports or shelters a bell
+n02092468	13324	terrier	any of several usually small short-bodied breeds originally trained to hunt animals living underground
+n01915811	13296	coral	marine colonial polyp characterized by a calcareous skeleton; masses in a variety of shapes often forming reefs
+n09256479	13105	coral_reef	a reef consisting of coral consolidated into limestone
+n02782093	13071	balloon	large tough nonrigid bag filled with gas or heated air
+n03351262	13030	"fishing_boat,fishing_smack,fishing_vessel"	a vessel for fishing; often has a well to keep the catch alive
+n02715513	12945	"anteroom,antechamber,entrance_hall,hall,foyer,lobby,vestibule"	a large entrance or reception room or area
+n02879087	12935	"bouquet,corsage,posy,nosegay"	an arrangement of flowers that is usually given as a present
+n03147509	12904	cup	a small open container usually used for drinking; usually has a handle
+n03343853	12662	"firearm,piece,small-arm"	a portable gun
+n02377181	12629	"stallion,entire"	uncastrated adult male horse
+n03895866	12620	"passenger_car,coach,carriage"	a railcar where passengers ride
+n03354903	12270	flag	emblem usually consisting of a rectangular piece of cloth of distinctive design
+n07583197	12210	soup	liquid food especially of meat or fish or vegetable stock often containing pieces of solid food
+n02377480	12078	"mare,female_horse"	female equine animal
+n03388043	12073	fountain	a structure from which an artificially produced jet of water arises
+n02793495	11991	barn	an outlying farm building for storing grain or animal feed and housing farm animals
+n01772222	11748	spider	"predatory arachnid with eight legs, two poison fangs, two feelers, and usually two silk-spinning organs at the back end of the body; they spin silk to make cocoons for eggs or traps for prey"
+n04217882	11744	"signboard,sign"	structure displaying a board on which advertisements can be posted
+n03412058	11690	"gallery,art_gallery,picture_gallery"	a room or series of rooms where works of art are exhibited
+n02818832	11611	bed	a piece of furniture that provides a place to sleep
+n03543394	11528	"hot_rod,hot-rod"	a car modified to increase its speed and acceleration
+n04236377	11481	"sleeve,arm"	the part of a garment that is attached at the armhole and that provides a cloth covering for the arm
+n02788148	11377	"bannister,banister,balustrade,balusters,handrail"	a railing at the side of a staircase or balcony to prevent people from falling
+n03809312	11319	"narrowbody_aircraft,narrow-body_aircraft,narrow-body"	a commercial airliner with a single aisle
+n03461385	11087	"grocery_store,grocery,food_market,market"	a marketplace where groceries are sold
+n04358707	10976	supermarket	a large self-service grocery store selling groceries and dairy products and household goods
+n04583620	10852	"widebody_aircraft,wide-body_aircraft,wide-body,twin-aisle_airplane"	a commercial airliner with two aisles
+n03769881	10597	minibus	a light bus (4 to 10 passengers)
+n03930630	10591	"pickup,pickup_truck"	a light truck with an open body and low sides and a tailboard
+n10223177	10494	jockey	someone employed to ride horses in horse races
+n03686924	10484	log_cabin	a cabin built with logs
+n04326547	10455	stone_wall	a fence built of rough stones; used to separate fields
+n07823951	10427	curry	(East Indian cookery) a pungent dish of vegetables or meats flavored with curry powder and usually eaten with rice
+n02837789	10419	"bikini,two-piece"	a woman's very brief bathing suit
+n02774152	10410	"bag,handbag,pocketbook,purse"	a container used for carrying money and small personal items or accessories (especially by women)
+n03819595	10304	"net,network,mesh,meshing,meshwork"	an open fabric of string or rope or wire woven together at regular intervals
+n03497657	10278	"hat,chapeau,lid"	headdress that protects the head from bad weather; has shaped crown and usually a brim
+n03211789	10000	"display_window,shop_window,shopwindow,show_window"	a window of a store facing onto the street; used to display merchandise for sale in the store
+n09835506	9980	"ballplayer,baseball_player"	an athlete who plays baseball
+n07806221	9946	salad	food mixtures either arranged on a plate or tossed and served with a moist dressing; usually consisting of or including greens
+n02416519	9536	"goat,caprine_animal"	any of numerous agile ruminants related to sheep but having a beard and straight horns
+n02815950	9365	beam	"long thick piece of wood or metal or concrete, etc., used in construction"
+n02329401	9335	"rodent,gnawer"	relatively small placental mammals having a single pair of constantly growing incisor teeth specialized for gnawing
+n03790230	9223	"motorboat,powerboat"	a boat propelled by an internal-combustion engine
+n04469813	9126	"tramway,tram,aerial_tramway,cable_tramway,ropeway"	a conveyance that transports passengers or freight in carriers suspended from cables and supported by a series of towers
+n02894605	9095	"breakwater,groin,groyne,mole,bulwark,seawall,jetty"	a protective structure of stone or concrete; extends from shore into the water to prevent a beach from washing away
+n07735510	8915	pumpkin	usually large pulpy deep-yellow round fruit of the squash family maturing in late summer or early autumn
+n02380583	8910	mustang	small hardy range horse of the western plains descended from horses brought by the Spanish
+n07679356	8632	"bread,breadstuff,staff_of_life"	food made from dough of flour or meal and usually raised with yeast or baking powder and then baked
+n02281787	8484	"lycaenid,lycaenid_butterfly"	any of various butterflies of the family Lycaenidae
+n04495843	8296	"tugboat,tug,towboat,tower"	a powerful small boat designed to pull or push larger ships
+n02022684	8234	"shorebird,shore_bird,limicoline_bird"	any of numerous wading birds that frequent mostly seashores and estuaries
+n04192238	8193	shelter	temporary housing for homeless or displaced persons
+n02692232	8014	"airport,airdrome,aerodrome,drome"	an airfield equipped with control tower and hangars as well as accommodations for passengers and cargo
+n03196062	7981	digital_camera	a camera that encodes an image digitally and store it for later reproduction
+n04411264	7921	"tent,collapsible_shelter"	a portable shelter (usually of canvas stretched over supporting poles and fastened to the ground with ropes and pegs)
+n03841666	7761	"office,business_office"	place of business where professional or clerical duties are performed
+n03498781	7706	hatchback	a car having a hatchback door
+n02430045	7673	"deer,cervid"	distinguished from Bovidae by the male's having solid deciduous antlers
+n02190166	7669	fly	two-winged insects characterized by active flight
+n06267145	7650	"newspaper,paper"	a daily or weekly publication on folded sheets; contains news and articles and advertisements
+n07614500	7593	"ice_cream,icecream"	frozen dessert containing cream and sugar and flavoring
+n02733213	7569	"arcade,colonnade"	a structure composed of a series of arches supported by columns
+n04351550	7510	"suite,rooms"	apartment consisting of a series of connected rooms used as a living unit (as in a hotel)
+n02123045	7459	"tabby,tabby_cat"	a cat with a grey or tawny coat mottled with black
+n03063073	7440	coffee_cup	a cup from which coffee is drunk
+n03594945	7382	"jeep,landrover"	a car suitable for traveling over rough terrain
+n03095699	7337	"container_ship,containership,container_vessel"	a cargo ship designed to hold containerized cargoes
+n03443371	7309	goblet	a drinking glass with a base and stem
+n03467984	7274	gun	a weapon that discharges a missile at high velocity (especially from a metal tube or barrel)
+n03643253	7268	"laser,optical_maser"	an acronym for light amplification by stimulated emission of radiation; an optical device that produces an intense monochromatic beam of coherent light
+n07906284	7237	"whiskey,whisky"	a liquor made from fermented mash of grain
+n04188179	7225	"sheet,bed_sheet"	bed linen consisting of a large rectangular piece of cotton or linen cloth; used in pairs
+n03619890	7194	kitchen	a room equipped for preparing meals
+n03614007	7080	keyboard	device consisting of a set of keys on a piano or organ or typewriter or typesetting machine or computer or the like
+n02993546	7042	"center,centre"	a building dedicated to a particular activity
+n07911677	6943	cocktail	a short mixed drink
+n02788572	6843	"baptismal_font,baptistry,baptistery,font"	bowl for baptismal water
+n04571292	6707	"weight,free_weight,exercising_weight"	sports equipment used in calisthenic exercises and weightlifting; it is not attached to anything and is raised and lowered by use of the hands and arms
+n02041246	6683	"gull,seagull,sea_gull"	mostly white aquatic bird having long pointed wings and short legs
+n02898585	6644	"bridal_gown,wedding_gown,wedding_dress"	a gown worn by the bride at a wedding
+n02777734	6624	balcony	a platform projecting from the wall of a building and surrounded by a balustrade or railing or parapet
+n02814860	6570	"beacon,lighthouse,beacon_light,pharos"	a tower with a light that gives warning of shoals to passing ships
+n03788195	6384	mosque	(Islam) a Muslim place of worship that usually has a minaret
+n04555897	6357	"watch,ticker"	a small portable timepiece
+n01613294	6210	"eagle,bird_of_Jove"	any of various large keen-sighted diurnal birds of prey noted for their broad wings and strong soaring flight
+n02821627	6169	"bedroom,sleeping_room,sleeping_accommodation,chamber,bedchamber"	a room used primarily for sleeping
+n03558176	6140	"ice_rink,ice-skating_rink,ice"	a rink with a floor of ice for ice hockey or ice skating
+n02807731	6126	"bathroom,bath"	a room (as in a residence) containing a bathtub or shower and usually a washbasin and toilet
+n02169497	6123	"leaf_beetle,chrysomelid"	brightly colored beetle that feeds on plant leaves; larvae infest roots and stems
+n10665698	6079	"student,pupil,educatee"	a learner who is enrolled in an educational institution
+n02087551	6025	"hound,hound_dog"	any of several breeds of dog used for hunting typically having large drooping ears
+n09842047	5997	"basketball_player,basketeer,cager"	an athlete who plays basketball
+n03329302	5931	Ferris_wheel	a vertical rotating mechanism consisting of a large wheel with suspended seats that remain upright as the wheel rotates; provides a ride at an amusement park
+n04405907	5930	"television_receiver,television,television_set,tv,tv_set,idiot_box,boob_tube,telly,goggle_box"	an electronic device that receives television signals and displays them on a screen
+n01855672	5907	goose	web-footed long-necked typically gregarious migratory aquatic birds usually larger and less aquatic than ducks
+n03179701	5852	desk	a piece of furniture with a writing surface and usually drawers or other compartments
+n04401088	5842	"telephone,phone,telephone_set"	electronic equipment that converts sound into electrical signals that can be transmitted over distances and then converts received signals back into sounds
+n09289331	5802	glacier	a slowly moving mass of ice
+n07889510	5766	ale	a general name for beer made with a top fermenting yeast; in some of the United States an ale is (by law) a brew of more than 4% alcohol by volume
+n02099712	5734	Labrador_retriever	breed originally from Labrador having a short black or golden-brown coat
+n02113335	5717	"poodle,poodle_dog"	an intelligent dog with a heavy curly solid-colored coat that is usually clipped; an old breed sometimes trained as sporting dogs or as performing dogs
+n07929519	5704	"coffee,java"	a beverage consisting of an infusion of ground coffee beans
+n04451818	5657	tool	an implement used in the practice of a vocation
+n02823428	5605	beer_bottle	a bottle that holds beer
+n03673027	5564	"liner,ocean_liner"	a large commercial ship (especially one that carries passengers on a regular schedule)
+n02776631	5530	"bakery,bakeshop,bakehouse"	a workplace where baked goods (breads and cakes and pastries) are produced or sold
+n03783873	5504	monoplane	an airplane with a single wing
+n07707451	5472	"vegetable,veggie,veg"	edible seeds or roots or stems or leaves or bulbs or tubers or nonsweet fruits of any of numerous herbaceous plant
+n01816887	5395	parrot	usually brightly colored zygodactyl tropical birds with short hooked beaks and the ability to mimic sounds
+n03459775	5376	"grille,radiator_grille"	grating that admits cooling air to car's radiator
+n03151077	5339	"curtain,drape,drapery,mantle,pall"	hanging cloth used as a blind (especially for a window)
+n03459591	5313	"grill,grille,grillwork"	a framework of metal bars used as a partition or a grate
+n04147183	5256	schooner	sailing vessel used in former times
+n04149813	5244	scoreboard	a large board for displaying the score of a contest (and some other information)
+n07576182	5222	buffet	a meal set out on a buffet at which guests help themselves
+n04465501	5176	tractor	a wheeled vehicle with large wheels; used in farming and other applications
+n02867715	5105	bomber	a military aircraft that drops bombs during flight
+n04487081	5079	"trolleybus,trolley_coach,trackless_trolley"	a passenger bus with an electric motor that draws power from overhead wires
+n02948072	5075	"candle,taper,wax_light"	stick of wax with a wick in the middle
+n04069434	5022	reflex_camera	camera that allows the photographer to view and focus the exact scene being photographed
+n03085219	5014	computer_monitor	a device that displays signals on a computer screen
+n03046257	4976	clock	a timepiece that shows the time of day
+n00470966	4946	"rugby,rugby_football,rugger"	a form of football played with an oval ball
+n02836035	4816	bicycle_wheel	the wheel of a bicycle
+n03096960	4809	"control,controller"	a mechanism that controls the operation of a machine
+n03427296	4807	gate	a movable barrier in a fence or wall
+n07920052	4774	espresso	strong black coffee brewed by forcing hot water under pressure through finely ground coffee beans
+n02726305	4771	"apartment,flat"	a suite of rooms usually on one floor of an apartment house
+n01605630	4745	hawk	diurnal bird of prey typically having short rounded wings and a long tail
+n04011827	4720	"propeller,propellor"	a mechanical device that rotates to push against air or water
+n07681926	4633	cracker	a thin crisp wafer made of flour and water with or without leavening and shortening; unsweetened or semisweet
+n03589791	4624	jacket	a short coat
+n04467665	4579	"trailer_truck,tractor_trailer,trucking_rig,rig,articulated_lorry,semi"	a truck consisting of a tractor and trailer together
+n02403325	4569	bull	uncastrated adult male of domestic cattle
+n11664418	4512	"ginkgo,gingko,maidenhair_tree,Ginkgo_biloba"	deciduous dioecious Chinese tree having fan-shaped leaves and fleshy yellow seeds; exists almost exclusively in cultivation especially as an ornamental street tree
+n04251791	4481	snowboard	a board that resembles a broad ski or a small surfboard; used in a standing position to slide down snow-covered slopes
+n02070430	4479	porpoise	any of several small gregarious cetacean mammals having a blunt snout and many teeth
+n09288635	4478	geyser	a spring that discharges hot water and steam
+n02504013	4456	"Indian_elephant,Elephas_maximus"	Asian elephant having smaller ears and tusks primarily in the male
+n04065272	4442	"recreational_vehicle,RV,R.V."	a motorized wheeled vehicle used for camping or other recreational activities
+n11978233	4427	"sunflower,helianthus"	any plant of the genus Helianthus having large flower heads with dark disk florets and showy yellow rays
+n04118021	4365	"rug,carpet,carpeting"	floor covering consisting of a piece of thick heavy fabric (usually with nap or pile)
+n02693246	4355	"air_terminal,airport_terminal"	a terminal that serves air travelers or air freight
+n01791625	4286	"chicken,Gallus_gallus"	a domestic fowl bred for flesh or eggs; believed to have been developed from the red jungle fowl
+n04587404	4239	"windmill,aerogenerator,wind_generator"	generator that extracts usable energy from winds
+n03770679	4234	minivan	a small box-shaped passenger van; usually has removable seats; used as a family car
+n03502331	4197	"head_covering,veil"	a garment that covers the head and face
+n06595351	4165	"magazine,mag"	a periodic publication containing pictures and stories and articles of interest to those who purchase it or subscribe to it
+n07923748	4118	juice	the liquid part that can be extracted from plant or animal tissue by squeezing or cooking
+n02279972	4106	"monarch,monarch_butterfly,milkweed_butterfly,Danaus_plexippus"	large migratory American butterfly having deep orange wings with black and white markings; the larvae feed on milkweed
+n00440039	4078	"track,running"	the act of participating in an athletic competition involving running on a track
+n03763968	4078	military_uniform	prescribed identifying uniform for soldiers
+n07680932	4050	"bun,roll"	small rounded bread either plain or sweet
+n09270735	3925	"dune,sand_dune"	a ridge of sand created by the wind; found in deserts or near lakes and oceans
+n04523525	3917	vault	an arched brick or stone ceiling or roof
+n00464894	3889	"golf,golf_game"	a game played on a large open course with 9 or 18 holes; the object is use as few strokes as possible in playing all the holes
+n02727825	3885	"apparatus,setup"	equipment designed to serve a specific function
+n03814906	3864	necklace	jewelry consisting of a cord or chain (often bearing gems) worn about the neck as an ornament (especially by women)
+n03581125	3862	"intersection,crossroad,crossway,crossing,carrefour"	a junction where one street or road crosses another
+n02951843	3861	canopy	a covering (usually of cloth) that serves as a roof to shelter an area from the weather
+n04532670	3829	viaduct	bridge consisting of a series of arches supported by piers used to carry a road (or railroad) over a valley
+n12076577	3797	"moth_orchid,moth_plant"	any of various orchids of the genus Phalaenopsis having often drooping glossy broad obovate or oval leaves usually dark green flushed purple or mottled grey and silver
+n04102406	3771	"roller_coaster,big_dipper,chute-the-chute"	elevated railway in an amusement park (usually with sharp curves and steep inclines)
+n04522168	3762	vase	an open jar of glass or porcelain used as an ornament or to hold flowers
+n02879309	3754	"boutique,dress_shop"	a shop that sells women's clothes and jewelry
+n00482298	3686	"tennis,lawn_tennis"	a game played with rackets by two or four players who hit a ball back and forth over a net that divides the court
+n03972524	3677	pocket	a small pouch inside a garment for carrying small articles
+n02268853	3673	damselfly	slender non-stinging insect similar to but smaller than the dragonfly but having wings folded when at rest
+n00015388	3666	"animal,animate_being,beast,brute,creature,fauna"	a living organism characterized by voluntary movement
+n04146614	3648	school_bus	a bus used to transport children to or from school
+n07831146	3647	carbonara	sauce for pasta; contains eggs and bacon or ham and grated cheese
+n02099029	3634	retriever	a dog with heavy water-resistant coat that can be trained to retrieve game
+n03180011	3622	desktop_computer	a personal computer small enough to fit conveniently in an individual workspace
+n04033995	3589	"quilt,comforter,comfort,puff"	bedding made of two layers of cloth filled with stuffing and stitched together
+n03845190	3588	"oil_tanker,oiler,tanker,tank_ship"	a cargo ship designed to carry crude oil in bulk
+n04202417	3544	"shop,store"	a mercantile establishment for the retail sale of goods or services
+n12059314	3518	dendrobium	a plant of the genus Dendrobium having stems like cane and usually showy racemose flowers
+n02756098	3514	"attire,garb,dress"	clothing of a distinctive style or for a particular occasion
+n04389033	3489	"tank,army_tank,armored_combat_vehicle,armoured_combat_vehicle"	an enclosed armored military vehicle; has a cannon and moves on caterpillar treads
+n02761392	3471	"automaton,robot,golem"	a mechanism that can move automatically
+n02970685	3467	car_seat	a seat in a car
+n04252331	3419	snowshoe	a device to help you walk on deep snow; a lightweight frame shaped like a racquet is strengthened with cross pieces and contains a network of thongs; one is worn on each foot
+n02360282	3326	chipmunk	a burrowing ground squirrel of western America and Asia; has cheek pouches and a light and dark stripe running down the body
+n02872752	3311	boot	footwear that covers the whole foot and lower leg
+n02356798	3306	"fox_squirrel,eastern_fox_squirrel,Sciurus_niger"	exceptionally large arboreal squirrel of eastern United States
+n01621127	3296	"owl,bird_of_Minerva,bird_of_night,hooter"	nocturnal bird of prey with hawk-like beak and claws and large head with front-facing eyes
+n02487347	3276	macaque	short-tailed monkey of rocky regions of Asia and Africa
+n13054560	3261	bolete	any fungus of the family Boletaceae
+n01833805	3250	hummingbird	tiny American bird having brilliant iridescent plumage and long slender bills; wings are specialized for vibrating flight
+n02484473	3249	"Old_World_monkey,catarrhine"	of Africa or Arabia or Asia; having nonprehensile tails and nostrils close together
+n02699629	3227	"altar,communion_table,Lord's_table"	the table in Christian churches where communion is given
+n04141712	3199	"scaffolding,staging"	a system of scaffolds
+n12050533	3195	cattleya	any orchid of the genus Cattleya characterized by a three-lobed lip enclosing the column; among the most popular and most extravagantly beautiful orchids known
+n03888257	3180	"parachute,chute"	rescue equipment consisting of a device that fills with air and retards your fall
+n11950345	3124	chrysanthemum	"any of numerous perennial Old World herbs having showy brightly colored flower heads of the genera Chrysanthemum, Argyranthemum, Dendranthema, Tanacetum; widely cultivated"
+n01874434	3080	"marsupial,pouched_mammal"	mammals of which the females have a pouch (the marsupium) containing the teats where the young are fed and carried
+n11879895	3070	rapeseed	seed of rape plants; source of an edible oil
+n06359193	3036	"web_site,website,internet_site,site"	a computer connected to the internet that maintains a series of web pages on the World Wide Web
+n01811909	3015	pigeon	wild and domesticated birds having a heavy body and short legs
+n07838073	3011	gravy	"a sauce made by adding stock, flour, or other ingredients to the juice and fat that drips from cooking meats"
+n02489589	3011	"New_World_monkey,platyrrhine,platyrrhinian"	hairy-faced arboreal monkeys having widely separated nostrils and long usually prehensile tails
+n02842573	2988	biplane	old fashioned airplane; has two wings one above the other
+n02912557	2983	"buggy,roadster"	a small lightweight carriage; drawn by a single horse
+n07804323	2951	rice	grains used as food either unpolished or more often polished
+n02936714	2945	"cage,coop"	an enclosure made or wire or metal bars in which birds or animals can be kept
+n07879450	2939	sushi	rice (with raw fish) wrapped in seaweed
+n04507155	2915	umbrella	a lightweight handheld collapsible canopy
+n03665924	2885	"light_bulb,lightbulb,bulb,incandescent_lamp,electric_light,electric-light_bulb"	electric lamp consisting of a transparent or translucent glass housing containing a wire filament (usually tungsten) that emits light when heated by electricity
+n07775197	2885	sunflower_seed	edible seed of sunflowers; used as food and poultry feed and as a source of oil
+n03900979	2864	"pavilion,marquee"	large and often sumptuous tent
+n07576781	2833	"barbecue,barbeque"	a cookout in which food is cooked over an open fire; especially a whole animal carcass roasted on a spit
+n03724870	2826	mask	a covering to disguise or conceal the face
+n03457902	2821	"greenhouse,nursery,glasshouse"	a building with glass walls and roof; for the cultivation and exhibition of plants under controlled conditions
+n03126707	2808	crane	lifts and moves heavy objects; lifting tackle is suspended from a pivoted boom that rotates around a vertical axis
+n14698884	2792	"gravel,crushed_rock"	rock fragments and pebbles
+n01818515	2781	macaw	long-tailed brilliantly colored parrot of Central America and South America; among the largest and showiest of parrots
+n02836174	2776	bidet	a basin for washing genitals and anal area
+n02439033	2736	"giraffe,camelopard,Giraffa_camelopardalis"	tallest living quadruped; having a spotted coat and small horns and very long neck and legs; of savannahs of tropical Africa
+n07596967	2734	confectionery	candy and other sweets considered collectively
+n02177972	2713	weevil	any of several families of mostly small beetles that feed on plants and plant products; especially snout beetles and seed beetles
+n03791053	2709	"motor_scooter,scooter"	a wheeled vehicle with small wheels and a low-powered gasoline engine geared to the rear wheel
+n01530575	2694	"brambling,Fringilla_montifringilla"	Eurasian finch
+n03992703	2687	"pottery,clayware"	ceramic ware made from clay and baked in a kiln
+n04350905	2674	"suit,suit_of_clothes"	a set of garments (usually including a jacket and trousers or skirt) for outerwear all of the same fabric and color
+n04366367	2672	suspension_bridge	a bridge that has a roadway supported by cables that are anchored at both ends
+n02099601	2662	golden_retriever	an English breed having a long silky golden coat
+n03511175	2651	"hedge,hedgerow"	a fence formed by a row of closely planted shrubs or bushes
+n07734017	2639	tomato	mildly acid red or yellow pulpy fruit eaten as a vegetable
+n02330245	2600	mouse	any of numerous small rodents typically resembling diminutive rats having pointed snouts and small ears on elongated bodies with slender usually hairless tails
+n02343772	2597	"gerbil,gerbille"	small Old World burrowing desert rodent with long soft pale fur and hind legs adapted for leaping
+n02108672	2593	"bulldog,English_bulldog"	a sturdy thickset short-haired breed with a large head and strong undershot lower jaw; developed originally in England for bull baiting
+n07893642	2582	"champagne,bubbly"	a white sparkling wine either produced in Champagne or resembling that produced there
+n07580053	2579	"side_dish,side_order,entremets"	"a dish that is served with, but is subordinate to, a main course"
+n02406174	2578	"dairy_cattle,dairy_cow,milch_cow,milk_cow,milcher,milker"	cattle that are reared for their milk
+n03148324	2572	"cupboard,closet"	a small room (or recess) or cabinet used for storage space
+n02966193	2557	"carousel,carrousel,merry-go-round,roundabout,whirligig"	"a large, rotating machine with seats for children to ride or amusement"
+n03594734	2501	"jean,blue_jean,denim"	(usually plural) close-fitting trousers of heavy denim for manual work or casual wear
+n04399382	2487	"teddy,teddy_bear"	plaything consisting of a child's toy bear (usually plush and stuffed with soft materials)
+n04344873	2481	"studio_couch,day_bed"	convertible consisting of an upholstered couch that can be converted into a double bed
+n02930766	2462	"cab,hack,taxi,taxicab"	a car driven by a person whose job is to take passengers where they want to go in exchange for money
+n12593994	2438	"date_palm,Phoenix_dactylifera"	tall tropical feather palm tree native to Syria bearing sweet edible fruit
+n03393912	2438	freight_car	a railway car that carries freight
+n02077923	2429	sea_lion	any of several large eared seals of the northern Pacific related to fur seals but lacking their valuable coat
+n02687821	2417	"airdock,hangar,repair_shed"	a large structure at an airport where aircraft can be stored and maintained
+n02934451	2413	"cable_car,car"	a conveyance for passengers or freight on a cable railway
+n02946921	2412	"can,tin,tin_can"	airtight sealed metal container for food or drink or paint etc.
+n02480855	2400	"gorilla,Gorilla_gorilla"	largest anthropoid ape; terrestrial and vegetarian; of forests of central west Africa
+n07933274	2397	tea	a beverage made by steeping tea leaves in water
+n02055803	2396	penguin	short-legged flightless birds of cold southern especially Antarctic regions having webbed feet and wings modified as flippers
+n03233905	2390	drawer	a boxlike container in a piece of furniture; made so as to slide in and out
+n03145522	2389	"cue,cue_stick,pool_cue,pool_stick"	sports implement consisting of a tapering rod used to strike a cue ball in pool or billiards
+n12142085	2384	wheat	annual or biennial grass having erect flower spikes and light brown grains
+n02101108	2368	spaniel	any of several breeds of small to medium-sized gun dogs with a long silky coat and long frilled ears
+n11960245	2365	"dahlia,Dahlia_pinnata"	any of several plants of or developed from the species Dahlia pinnata having tuberous roots and showy rayed variously colored flower heads; native to the mountains of Mexico and Central America and Colombia
+n02068974	2355	dolphin	any of various small toothed whales with a beaklike snout; larger than porpoises
+n01055165	2348	"camping,encampment,bivouacking,tenting"	the act of encamping and living in tents in a camp

@@ -1,0 +1,54 @@
+n02958343	823541	"car,auto,automobile,machine,motorcar"	a motor vehicle with four wheels; usually propelled by an internal combustion engine
+n00007846	645689	"person,individual,someone,somebody,mortal,soul"	a human being
+n02084071	182362	"dog,domestic_dog,Canis_familiaris"	a member of the genus Canis (probably descended from the common wolf) that has been domesticated by man since prehistoric times; occurs in many breeds
+n02834778	152529	"bicycle,bike,wheel,cycle"	a wheeled vehicle that has two wheels and is moved by foot pedals
+n01503061	138718	bird	warm-blooded egg-laying vertebrates characterized by feathers and forelimbs modified as wings
+n04530566	85147	"vessel,watercraft"	a craft designed for water transportation
+n02691156	62411	"airplane,aeroplane,plane"	an aircraft that has a fixed wing and is powered by propellers or jets
+n03249569	59268	"drum,membranophone,tympan"	a musical percussion instrument; usually consists of a hollow cylinder with a membrane stretched across each end
+n03467517	56641	guitar	a stringed instrument usually having six strings; played by strumming or plucking
+n04468005	49504	"train,railroad_train"	public transport provided by a line of railway cars coupled together and drawn by a locomotive
+n04379243	38831	table	a piece of furniture having a smooth flat top that is usually supported by one or more vertical legs
+n03790512	34935	"motorcycle,bike"	a motor vehicle with two wheels and a strong frame
+n02924116	34142	"bus,autobus,coach,charabanc,double-decker,jitney,motorbus,motorcoach,omnibus,passenger_vehicle"	a vehicle carrying many passengers; used for public transport
+n07747607	30336	orange	round yellow to orange fruit of any of several citrus trees
+n02274259	29316	butterfly	diurnal insect typically having a slender body with knobbed antennae and broad colorful wings
+n02121808	21341	"domestic_cat,house_cat,Felis_domesticus,Felis_catus"	any domesticated member of the genus Felis
+n02206856	20368	bee	any of numerous hairy-bodied insects including social and solitary species
+n02374451	20102	"horse,Equus_caballus"	solid-hoofed herbivorous quadruped domesticated since prehistoric times
+n02799071	16879	baseball	a ball used in playing baseball
+n04356056	16345	"sunglasses,dark_glasses,shades"	spectacles that are darkened or polarized to protect the eyes from the glare of the sun
+n02402425	12154	"cattle,cows,kine,oxen,Bos_taurus"	domesticated bovine animals as a group regardless of sex or age
+n03001627	11978	chair	"a seat for one person, with a support for the back"
+n02503517	11616	elephant	five-toed pachyderm
+n02411705	11321	sheep	woolly usually horned ruminant mammal related to the goat
+n04228054	11032	ski	narrow wood or metal or plastic runners used in pairs for gliding over snow
+n07745940	10197	strawberry	sweet fleshy red fruit
+n02802426	9620	basketball	an inflated ball used in playing basketball
+n02268443	9263	"dragonfly,darning_needle,devil's_darning_needle,sewing_needle,snake_feeder,snake_doctor,mosquito_hawk,skeeter_hawk"	slender-bodied non-stinging insect having iridescent wings that are outspread at rest; adults and nymphs feed on mosquitoes etc.
+n03642806	7362	"laptop,laptop_computer"	a portable computer small enough to use in your lap
+n02355227	7231	squirrel	a kind of arboreal rodent having a long bushy tail
+n02324045	7106	"rabbit,coney,cony"	any of various burrowing animals of the family Leporidae having long ears and short tails; some domesticated and raised for pets or food
+n01726692	6984	"snake,serpent,ophidian"	limbless scaly elongate reptile; some are venomous
+n07739125	6555	apple	fruit with red or yellow or green skin and sweet to tart crisp whitish flesh
+n02484322	6226	monkey	any of various long-tailed primates (excluding the prosimians)
+n03636649	6026	lamp	a piece of furniture holding one or more electric light bulbs
+n01674464	5994	lizard	relatively long-bodied reptile with usually two pairs of legs and a tapering tail
+n04591713	5829	wine_bottle	a bottle for holding wine
+n03110669	5825	"cornet,horn,trumpet,trump"	a brass musical instrument with a brilliant tone; has a narrow tube and a flared bell and is played by means of valves
+n04536866	5415	"violin,fiddle"	bowed stringed instrument that is the highest member of the violin family; this instrument has four strings and a hollow body and an unfretted fingerboard and is played with a bow
+n02970849	5265	cart	a heavy open wagon usually having two wheels and drawn by an animal
+n03085013	5090	"computer_keyboard,keypad"	a keyboard that is a data input device for computers; arrangement of keys is modelled after the typewriter keyboard
+n01639765	4882	"frog,toad,toad_frog,anuran,batrachian,salientian"	any of various tailless stout-bodied amphibians with long hind limbs for leaping; semiaquatic and terrestrial species
+n02131653	4312	bear	massive plantigrade carnivorous or omnivorous mammals with long shaggy coats and strong claws
+n03928116	4216	"piano,pianoforte,forte-piano"	a keyboard instrument that is played by depressing keys that cause hammers to strike tuned strings and produce sounds
+n02129165	4180	"lion,king_of_beasts,Panthera_leo"	large gregarious predatory feline of Africa and India having a tawny coat with a shaggy mane in the male
+n06874185	4169	"traffic_light,traffic_signal,stoplight"	a visual signal to control the flow of traffic at intersections
+n01662784	4087	turtle	any of various aquatic and land reptiles having a bony shell and flipper-like limbs for swimming
+n03991062	3880	"pot,flowerpot"	a container in which plants are cultivated
+n07873807	3690	"pizza,pizza_pie"	Italian open pie made of thin bread dough spread with a spiced mixture of e.g. tomato sauce and cheese
+n07697100	3454	"hamburger,beefburger,burger"	"a sandwich consisting of a fried cake of minced beef served on a bun, often with other ingredients"
+n02129604	3196	"tiger,Panthera_tigris"	large feline of forests in most of Asia having a tawny coat with black stripes; endangered
+n02076196	2891	seal	any of numerous marine mammals that come on shore to breed; chiefly of cold regions
+n04026417	2830	purse	a small bag for carrying money
+n04256520	2808	"sofa,couch,lounge"	an upholstered seat for more than one person

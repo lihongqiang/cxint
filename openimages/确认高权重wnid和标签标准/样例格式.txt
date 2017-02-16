@@ -1,0 +1,79 @@
+﻿数据样例：
+{[
+	{
+		"ImageID":"m07739125",
+		"Descriptions":[
+			{
+				"Chinese":"***",
+				"English":"***"
+			},
+			{
+				"Chinese":"***",
+				"English":"***"
+			},
+			{
+				"Chinese":"***",
+				"English":"***"
+			},
+			{
+				"Chinese":"***",
+				"English":"***"
+			}],
+		"Objects":[
+			{
+				"WordNetID": ["n07739125"],
+				"BoundingBoxes": []			
+			},
+			{
+				"WordNetID": ["n07739126"],
+				"BoundingBoxes": [
+					[11, 22, 33, 44],		(左上角点坐标, 右下角点坐标)
+				]
+			}, 
+			{
+				"WordNetID": ["n07739127"],
+				"BoundingBoxes": [
+					[11, 22, 33, 44],   
+					[11, 22, 44, 55]
+				]
+			}]
+	},
+	{
+		"ImageID":"m07739125",
+		"Descriptions":[
+			{
+				"Chinese":"***",
+				"English":"***"
+			},
+			{
+				"Chinese":"***",
+				"English":"***"
+			},
+			{
+				"Chinese":"***",
+				"English":"***"
+			},
+			{
+				"Chinese":"***",
+				"English":"***"
+			}],
+		"Objects":[
+			{
+				"WordNetID": ["n07739125"],
+				"BoundingBoxes": []
+			},
+			{
+				"WordNetID": ["n07739126"],
+				"BoundingBoxes": [
+					[11, 22, 33, 44],		(左上角点坐标, 右下角点坐标)
+				]
+			}, 
+			{
+				"WordNetID": ["n07739127"],
+				"BoundingBoxes": [
+					[11, 22, 33, 44],   
+					[11, 22, 44, 55]
+				]
+			}]
+	}
+]}
